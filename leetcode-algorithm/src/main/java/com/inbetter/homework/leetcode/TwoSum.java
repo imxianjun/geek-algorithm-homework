@@ -1,4 +1,4 @@
-package com.inbetter.homework.algorithm;
+package com.inbetter.homework.leetcode;
 
 import java.util.HashMap;
 import java.util.Map;
