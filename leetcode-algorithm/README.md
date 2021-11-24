@@ -1,6 +1,12 @@
 # Leetcode Algorithm
 
+你看这算法，他又难又必考，又难又必考，又难又必考，真是难煞老夫了！
+
 ## Day
+
+#### [146.LRU缓存机制](https://leetcode.com/problems/lru-cache/)
+
+> Day-10 2021-11-24
 
 #### [49.字母异位词分组](https://leetcode.com/problems/group-anagrams/)
 
@@ -16,7 +22,7 @@
 
 #### [25.K个一组翻转链表](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
-Day-06 2021-11-20
+> Day-06 2021-11-20
 
 #### [20.有效的括号](https://leetcode.com/problems/valid-parentheses/)
 
