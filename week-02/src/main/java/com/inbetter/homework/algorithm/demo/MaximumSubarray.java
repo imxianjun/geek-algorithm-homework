@@ -1,4 +1,4 @@
-package com.inbetter.homework.algorithm;
+package com.inbetter.homework.algorithm.demo;
 
 public class MaximumSubarray {
 

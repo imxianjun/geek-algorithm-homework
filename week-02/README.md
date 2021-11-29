@@ -29,10 +29,10 @@ LRU 缓存机制（Medium）
 
 ## 作业
 
-1. [加一（Easy）](https://leetcode.com/problems/plus-one/)
-2. [合并两个有序链表（Easy）](https://leetcode.com/problems/merge-two-sorted-lists/)
-3. [设计循环双端队列（Medium）](https://leetcode.com/problems/design-circular-deque/)
-4. [最大矩形（Hard）](https://leetcode.com/problems/maximal-rectangle/)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+1. [子域名访问计数（Easy）](https://leetcode.com/problems/subdomain-visit-count/) : SubdomainVisitCount
+2. [数组的度（Easy）](https://leetcode.com/problems/degree-of-an-array/) : DegreeOfAnArray
+3. [元素和为目标值的子矩阵数量（Hard）](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) : NumberOfSubmatricesThatSumToTarget
+4. [和为 K 的子数组（Medium）](https://leetcode.com/problems/subarray-sum-equals-k/) : SubarraySumEqualsK
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 ## 作业反馈
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          >
