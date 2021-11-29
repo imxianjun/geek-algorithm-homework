@@ -1,5 +1,12 @@
 # 第2周 哈希表、集合、映射、前缀和、差分、双指针扫描
 
+## 作业
+
+1. [子域名访问计数（Easy）](https://leetcode.com/problems/subdomain-visit-count/) : [SubdomainVisitCount](./src/main/java/com/inbetter/homework/algorithm/SubdomainVisitCount.java )
+2. [数组的度（Easy）](https://leetcode.com/problems/degree-of-an-array/) : [DegreeOfAnArray](./src/main/java/com/inbetter/homework/algorithm/DegreeOfAnArray.java)
+3. [元素和为目标值的子矩阵数量（Hard）](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) : [NumberOfSubmatricesThatSumToTarget](./src/main/java/com/inbetter/homework/algorithm/NumberOfSubmatricesThatSumToTarget.java)
+4. [和为 K 的子数组（Medium）](https://leetcode.com/problems/subarray-sum-equals-k/) : [SubarraySumEqualsK](./src/main/java/com/inbetter/homework/algorithm/SubarraySumEqualsK.java)
+
 ## 实战例题
 
 #### 无序集合、映射
@@ -25,14 +32,5 @@ LRU 缓存机制（Medium）
 1. 两数之和（Easy）
 2. 两数之和 II - 输入有序数组（Easy）
 3. 三数之和（Medium）
-4. 盛最多水的容器（Medium）
-
-## 作业
-
-1. [子域名访问计数（Easy）](https://leetcode.com/problems/subdomain-visit-count/) : SubdomainVisitCount
-2. [数组的度（Easy）](https://leetcode.com/problems/degree-of-an-array/) : DegreeOfAnArray
-3. [元素和为目标值的子矩阵数量（Hard）](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) : NumberOfSubmatricesThatSumToTarget
-4. [和为 K 的子数组（Medium）](https://leetcode.com/problems/subarray-sum-equals-k/) : SubarraySumEqualsK
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-## 作业反馈
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         >
+4. 盛最多水的容器（Medium）           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
