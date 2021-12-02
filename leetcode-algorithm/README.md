@@ -1,6 +1,6 @@
 # Leetcode Algorithm
 
-你看这算法，他又难又必考，又难又必考，又难又必考，真是难煞老夫了！
+战！战！战！吾不逊于任何人！
 
 ## Day
 
@@ -97,4 +97,17 @@
 [Combinations](./src/main/java/com/inbetter/homework/leetcode/Combinations.java)
 
 [CombinationsExcellentAnswer](./src/main/java/com/inbetter/homework/leetcode/CombinationsExcellentAnswer.java)
+
+#### [98.验证二叉搜索树](https://leetcode.com/problems/validate-binary-search-tree/)
+
+> Day-17 2021-12-01
+
+[ValidateBinarySearchTree](./src/main/java/com/inbetter/homework/leetcode/ValidateBinarySearchTree.java)
+
+#### [50.Pow(x,n)](https://leetcode.com/problems/powx-n/)
+
+> Day-18 2021-12-02
+
+[Pow](./src/main/java/com/inbetter/homework/leetcode/Pow.java)
+
 
