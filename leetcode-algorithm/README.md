@@ -110,4 +110,9 @@
 
 [Pow](./src/main/java/com/inbetter/homework/leetcode/Pow.java)
 
+#### [22.括号生成](https://leetcode.com/problems/generate-parentheses/)
+
+> Day-19 2021-12-03
+
+[GenerateParentheses](./src/main/java/com/inbetter/homework/leetcode/GenerateParentheses.java)
 
