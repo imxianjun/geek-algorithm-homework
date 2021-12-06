@@ -116,3 +116,22 @@
 
 [GenerateParentheses](./src/main/java/com/inbetter/homework/leetcode/GenerateParentheses.java)
 
+#### [297.二叉树的序列化与反序列化](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+
+> Day-20 2021-12-04
+
+[SerializeAndDeserializeBinaryTree](./src/main/java/com/inbetter/homework/leetcode/SerializeAndDeserializeBinaryTree.java)
+
+#### [207. 课程表](https://leetcode.com/problems/course-schedule/)
+
+> Day-21 2021-12-05
+
+[CourseSchedule](./src/main/java/com/inbetter/homework/leetcode/CourseSchedule.java)
+
+#### [684. 冗余连接](https://leetcode.com/problems/redundant-connection/)
+
+> Day-22 2021-12-06
+
+[RedundantConnection](./src/main/java/com/inbetter/homework/leetcode/RedundantConnection.java)
+
+
