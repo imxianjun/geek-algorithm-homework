@@ -134,4 +134,15 @@
 
 [RedundantConnection](./src/main/java/com/inbetter/homework/leetcode/RedundantConnection.java)
 
+#### [17. 电话号码的字母组合](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
+> Day-23 2021-12-07
+
+[LetterCombinationsOfAPhoneNumber](./src/main/java/com/inbetter/homework/leetcode/LetterCombinationsOfAPhoneNumber.java)
+
+#### [51. N 皇后](https://leetcode.com/problems/n-queens/)
+
+> Day-24 2021-12-08
+
+[NQueens](./src/main/java/com/inbetter/homework/leetcode/NQueens.java)
 
