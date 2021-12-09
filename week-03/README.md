@@ -4,8 +4,8 @@
 
 1. [合并K 个升序链表](https://leetcode.com/problems/merge-k-sorted-lists/) : [MergeKSortedLists](./src/main/java/com/inbetter/homework/algorithm/MergeKSortedLists.java )
 2. [全排列 II](https://leetcode.com/problems/permutations-ii/) : [PermutationsPlus](./src/main/java/com/inbetter/homework/algorithm/PermutationsPlus.java)
-3. [从中序与后序遍历序列构造二叉树](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) : [NumberOfSubmatricesThatSumToTarget](./src/main/java/com/inbetter/homework/algorithm/NumberOfSubmatricesThatSumToTarget.java)
-4. [课程表 II](https://leetcode.com/problems/course-schedule-ii/) : [SubarraySumEqualsK](./src/main/java/com/inbetter/homework/algorithm/SubarraySumEqualsK.java)
+3. [从中序与后序遍历序列构造二叉树](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) 
+4. [课程表 II](https://leetcode.com/problems/course-schedule-ii/) : 
 5. [冗余连接 II](https://leetcode.com/problems/redundant-connection-ii/)
 
 ## 实战例题
