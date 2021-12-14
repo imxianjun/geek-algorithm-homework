@@ -176,4 +176,10 @@
 
 [SlidingWindowMaximum](./src/main/java/com/inbetter/homework/leetcode/SlidingWindowMaximum.java)
 
+#### [704. 二分查找](https://leetcode.com/problems/binary-search/)
+
+> Day-30 2021-12-14
+
+[BinarySearch](./src/main/java/com/inbetter/homework/leetcode/BinarySearch.java)
+
 
