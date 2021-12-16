@@ -187,3 +187,10 @@
 > Day-31 2021-12-15
 
 [FindFirstAndLastPositionOfElementInSortedArray](./src/main/java/com/inbetter/homework/leetcode/FindFirstAndLastPositionOfElementInSortedArray.java)
+
+#### [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+
+> Day-32 2021-12-16
+
+[Sqrtx](./src/main/java/com/inbetter/homework/leetcode/Sqrtx.java)
+
