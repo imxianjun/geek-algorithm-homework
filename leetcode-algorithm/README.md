@@ -194,3 +194,10 @@
 
 [Sqrtx](./src/main/java/com/inbetter/homework/leetcode/Sqrtx.java)
 
+#### [162. 寻找峰值](https://leetcode.com/problems/find-peak-element/)
+
+> Day-33 2021-12-17
+
+[FindPeakElement](./src/main/java/com/inbetter/homework/leetcode/FindPeakElement.java)
+
+
