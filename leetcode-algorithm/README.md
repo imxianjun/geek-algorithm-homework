@@ -200,4 +200,9 @@
 
 [FindPeakElement](./src/main/java/com/inbetter/homework/leetcode/FindPeakElement.java)
 
+#### [374. 猜数字大小](https://leetcode.com/problems/guess-number-higher-or-lower/)
+
+> Day-34 2021-12-18
+
+[GuessNumberHigherOrLower](./src/main/java/com/inbetter/homework/leetcode/GuessNumberHigherOrLower.java)
 

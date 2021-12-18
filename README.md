@@ -2,6 +2,8 @@
 
 本项目为算法训练营 2021 版第二期作业
 
+> 偶尔真的想放弃掉！太难了！
+
 ## leetcode algorithm
 
 [leetcode algorithm](./leetcode-algorithm)
