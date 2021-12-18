@@ -2,38 +2,38 @@
 
 ## 作业
 
-1. [在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)
-2. [在线选举](https://leetcode-cn.com/problems/online-election/)
-3. [爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/)
-4. [区间和的个数（选做）](https://leetcode-cn.com/problems/count-of-range-sum/)
-5. [寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)
-6. [搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)
+1. [在 D 天内送达包裹的能力](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
+2. [在线选举](https://leetcode.com/problems/online-election/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
+3. [爱吃香蕉的珂珂](https://leetcode.com/problems/koko-eating-bananas/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
+4. [区间和的个数（选做）](https://leetcode.com/problems/count-of-range-sum/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
+5. [寻找旋转排序数组中的最小值 II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
+6. [搜索二维矩阵](https://leetcode.com/problems/search-a-2d-matrix/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
 
 ## 实战例题
 
 #### 二分查找
 
-1. [二分查找](https://leetcode-cn.com/problems/binary-search/)
-2. [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
-3. [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-4. [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)
+1. [二分查找](https://leetcode.com/problems/binary-search/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
+2. [寻找旋转排序数组中的最小值](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) : [FindMinimumInRotatedSortedArray](./src/main/java/com/inbetter/homework/algorithm/FindMinimumInRotatedSortedArray.java)
+3. [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) : [FindFirstAndLastPositionOfElementInSortedArray](./src/main/java/com/inbetter/homework/algorithm/FindFirstAndLastPositionOfElementInSortedArray.java)
+4. [Sqrt(x)](https://leetcode.com/problems/sqrtx/) : [Sqrtx](./src/main/java/com/inbetter/homework/algorithm/Sqrtx.java)
 
 #### 三分查找
 
-1. [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)
+1. [寻找峰值](https://leetcode.com/problems/find-peak-element/) : [FindPeakElement](./src/main/java/com/inbetter/homework/algorithm/FindPeakElement.java)
 
 #### 二分答案
 
-1. [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)
-2. [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)
-3. [制作 m 束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+1. [猜数字大小](https://leetcode.com/problems/guess-number-higher-or-lower/) : [GuessNumberHigherOrLower](./src/main/java/com/inbetter/homework/algorithm/GuessNumberHigherOrLower.java)
+2. [分割数组的最大值](https://leetcode.com/problems/split-array-largest-sum/) : [SplitArrayLargestSum](./src/main/java/com/inbetter/homework/algorithm/SplitArrayLargestSum.java)
+3. [制作 m 束花所需的最少天数](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) : [MinimumNumberOfDaysToMakeMBouquets](./src/main/java/com/inbetter/homework/algorithm/MinimumNumberOfDaysToMakeMBouquets.java)
 
 #### 排序
 
-1. [排序数组](https://leetcode-cn.com/problems/sort-an-array/)
-2. [数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/)
-3. [合并区间](https://leetcode-cn.com/problems/merge-intervals/)
-4. [数组中的第 K 个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
-5. [货仓选址](https://www.acwing.com/problem/content/description/106/)
-6. [翻转对](https://leetcode-cn.com/problems/reverse-pairs/)
+1. [排序数组](https://leetcode.com/problems/sort-an-array/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
+2. [数组的相对排序](https://leetcode.com/problems/relative-sort-array/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
+3. [合并区间](https://leetcode.com/problems/merge-intervals/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
+4. [数组中的第 K 个最大元素](https://leetcode.com/problems/kth-largest-element-in-an-array/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
+5. [货仓选址](https://www.acwing.com/problem/content/description/106/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
+6. [翻转对](https://leetcode.com/problems/reverse-pairs/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
 
