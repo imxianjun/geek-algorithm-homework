@@ -206,3 +206,21 @@
 
 [GuessNumberHigherOrLower](./src/main/java/com/inbetter/homework/leetcode/GuessNumberHigherOrLower.java)
 
+#### [215. 数组中的第K个最大元素](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
+> Day-35 2021-12-19
+
+[KthLargestElementInAnArray](./src/main/java/com/inbetter/homework/leetcode/KthLargestElementInAnArray.java)
+
+#### [56. 合并区间](https://leetcode.com/problems/merge-intervals/)
+
+> Day-36 2021-12-20
+
+[MergeIntervals](./src/main/java/com/inbetter/homework/leetcode/MergeIntervals.java)
+
+#### [70. 爬楼梯](https://leetcode.com/problems/climbing-stairs/)
+
+> Day-37 2021-12-21
+
+[ClimbingStairs](./src/main/java/com/inbetter/homework/leetcode/ClimbingStairs.java)
+
