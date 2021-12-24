@@ -164,7 +164,7 @@
 
 [MergeKSortedLists](./src/main/java/com/inbetter/homework/leetcode/MergeKSortedLists.java)
 
-#### [450. 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/)
+#### [450. 删除二叉搜索树中的节点](https://leetcode.com/problems/delete-node-in-a-bst/)
 
 > Day-28 2021-12-12
 
@@ -212,6 +212,8 @@
 
 [KthLargestElementInAnArray](./src/main/java/com/inbetter/homework/leetcode/KthLargestElementInAnArray.java)
 
+[KthLargestElementInAnArray2](./src/main/java/com/inbetter/homework/leetcode/KthLargestElementInAnArray2.java)
+
 #### [56. 合并区间](https://leetcode.com/problems/merge-intervals/)
 
 > Day-36 2021-12-20
@@ -224,3 +226,20 @@
 
 [ClimbingStairs](./src/main/java/com/inbetter/homework/leetcode/ClimbingStairs.java)
 
+#### [322. 零钱兑换](https://leetcode.com/problems/coin-change/)
+
+> Day-38 2021-12-22
+
+[CoinChange](./src/main/java/com/inbetter/homework/leetcode/CoinChange.java)
+
+#### [122. 买卖股票的最佳时机 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+
+> Day-39 2021-12-23
+
+[BestTimeToBuyAndSellStockII](./src/main/java/com/inbetter/homework/leetcode/BestTimeToBuyAndSellStockII.java)
+
+#### [45. 跳跃游戏 II](https://leetcode.com/problems/jump-game-ii/)
+
+> Day-40 2021-12-24
+
+[JumpGameII](./src/main/java/com/inbetter/homework/leetcode/JumpGameII.java)
