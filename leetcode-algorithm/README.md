@@ -243,3 +243,9 @@
 > Day-40 2021-12-24
 
 [JumpGameII](./src/main/java/com/inbetter/homework/leetcode/JumpGameII.java)
+
+#### [42. 接雨水](https://leetcode.com/problems/trapping-rain-water/)
+
+> Day-41 2021-12-25
+
+[TrappingRainWater](./src/main/java/com/inbetter/homework/leetcode/TrappingRainWater.java)
