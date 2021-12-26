@@ -2,9 +2,9 @@
 
 ## 作业
 
-1. [被围绕的区域](https://leetcode.com/problems/surrounded-regions/):[SurroundedRegions](./src/main/java/com/inbetter/homework/leetcode/SurroundedRegions.java)
-2. [设计推特](https://leetcode.com/problems/design-twitter/):[Twitter](./src/main/java/com/inbetter/homework/leetcode/Twitter.java)
-3. [把二叉搜索树转换为累加树](https://leetcode.com/problems/convert-bst-to-greater-tree/):[ConvertBSTToGreaterTree](./src/main/java/com/inbetter/homework/leetcode/ConvertBSTToGreaterTree.java)
+1. [被围绕的区域](https://leetcode.com/problems/surrounded-regions/) : [SurroundedRegions](./src/main/java/com/inbetter/homework/leetcode/SurroundedRegions.java)
+2. [设计推特](https://leetcode.com/problems/design-twitter/) : [Twitter](./src/main/java/com/inbetter/homework/leetcode/Twitter.java)
+3. [把二叉搜索树转换为累加树](https://leetcode.com/problems/convert-bst-to-greater-tree/) : [ConvertBSTToGreaterTree](./src/main/java/com/inbetter/homework/leetcode/ConvertBSTToGreaterTree.java)
 
 ## 实战例题
 
