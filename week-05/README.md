@@ -3,11 +3,16 @@
 ## 作业
 
 1. [在 D 天内送达包裹的能力](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) : [CapacityToShipPackagesWithinDDays](./src/main/java/com/inbetter/homework/algorithm/CapacityToShipPackagesWithinDDays.java)
-2. [在线选举](https://leetcode.com/problems/online-election/) : [OnlineElection](./src/main/java/com/inbetter/homework/algorithm/OnlineElection.java)
+2. [在线选举](https://leetcode.com/problems/online-election/) : [TopVotedCandidate](./src/main/java/com/inbetter/homework/algorithm/TopVotedCandidate.java)
 3. [爱吃香蕉的珂珂](https://leetcode.com/problems/koko-eating-bananas/) : [KokoEatingBananas](./src/main/java/com/inbetter/homework/algorithm/KokoEatingBananas.java)
 4. [区间和的个数（选做）](https://leetcode.com/problems/count-of-range-sum/) : [CountOfRangeSum](./src/main/java/com/inbetter/homework/algorithm/CountOfRangeSum.java)
 5. [寻找旋转排序数组中的最小值 II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) : [FindMinimumInRotatedSortedArrayII](./src/main/java/com/inbetter/homework/algorithm/FindMinimumInRotatedSortedArrayII.java)
 6. [搜索二维矩阵](https://leetcode.com/problems/search-a-2d-matrix/) : [SearchA2DMatrix](./src/main/java/com/inbetter/homework/algorithm/SearchA2DMatrix.java)
+
+## 期中考试
+
+1. [4Sum](https://leetcode.com/problems/4sum) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
+2. [The Maze](https://cheonhyangzhang.gitbooks.io/leetcode-solutions/content/solutions-451-500/490-the-maze.html) : [TheMaze](./src/main/java/com/inbetter/homework/algorithm/TheMaze.java)
 
 ## 实战例题
 
@@ -36,4 +41,3 @@
 4. [数组中的第 K 个最大元素](https://leetcode.com/problems/kth-largest-element-in-an-array/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
 5. [货仓选址](https://www.acwing.com/problem/content/description/106/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
 6. [翻转对](https://leetcode.com/problems/reverse-pairs/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
-
