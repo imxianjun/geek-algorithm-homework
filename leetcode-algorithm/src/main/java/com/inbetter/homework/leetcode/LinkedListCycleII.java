@@ -1,6 +1,6 @@
 package com.inbetter.homework.leetcode;
 
-public class LinkedListCycle2 {
+public class LinkedListCycleII {
 
     public ListNode detectCycle(ListNode head) {
         if (head == null || head.next == null) {

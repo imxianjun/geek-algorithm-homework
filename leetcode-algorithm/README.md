@@ -7,8 +7,8 @@
 1. [88.合并两个有序数组](https://leetcode.com/problems/merge-sorted-array/) : [MergeSortedArray](./src/main/java/com/inbetter/homework/leetcode/MergeSortedArray.java)
 2. [206.反转链表](https://leetcode.com/problems/reverse-linked-list/) : [ReverseLinkedList](./src/main/java/com/inbetter/homework/leetcode/ReverseLinkedList.java)
 3. [141.环形链表](https://leetcode.com/problems/linked-list-cycle/) : [LinkedListCycle](./src/main/java/com/inbetter/homework/leetcode/LinkedListCycle.java)
-4. [141.环形链表 II](https://leetcode.com/problems/linked-list-cycle-ii/)
-5. [20.有效的括号](https://leetcode.com/problems/valid-parentheses/)
+4. [141.环形链表 II](https://leetcode.com/problems/linked-list-cycle-ii/) : [LinkedListCycleII](./src/main/java/com/inbetter/homework/leetcode/LinkedListCycleII.java)
+5. [20.有效的括号](https://leetcode.com/problems/valid-parentheses/) : [ValidParentheses](./src/main/java/com/inbetter/homework/leetcode/ValidParentheses.java)
 6. [25.K个一组翻转链表](https://leetcode.com/problems/reverse-nodes-in-k-group/) : [ReverseNodesInKGroup](./src/main/java/com/inbetter/homework/leetcode/ReverseNodesInKGroup.java)
 7. [155.最小栈](https://leetcode.com/problems/min-stack/) : [MinStack](./src/main/java/com/inbetter/homework/leetcode/MinStack.java)
 8. [1.两数之和](https://leetcode.com/problems/two-sum/) : [TwoSum](./src/main/java/com/inbetter/homework/leetcode/TwoSum.java)
@@ -45,5 +45,5 @@
 39. [122. 买卖股票的最佳时机 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) : [BestTimeToBuyAndSellStockII](./src/main/java/com/inbetter/homework/leetcode/BestTimeToBuyAndSellStockII.java)
 40. [45. 跳跃游戏 II](https://leetcode.com/problems/jump-game-ii/) : [JumpGameII](./src/main/java/com/inbetter/homework/leetcode/JumpGameII.java)
 41. [42. 接雨水](https://leetcode.com/problems/trapping-rain-water/) : [TrappingRainWater](./src/main/java/com/inbetter/homework/leetcode/TrappingRainWater.java)
-42. [53. 最大子数组和](https://leetcode.com/problems/maximum-subarray/) : [MaximumSubarray2](./src/main/java/com/inbetter/homework/leetcode/MaximumSubarray2.java)
+42. [53. 最大子数组和](https://leetcode.com/problems/maximum-subarray/) : [MaximumSubarray](./src/main/java/com/inbetter/homework/leetcode/MaximumSubarray2.java)
 
