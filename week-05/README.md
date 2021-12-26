@@ -31,8 +31,8 @@
 #### 排序
 
 1. [排序数组](https://leetcode.com/problems/sort-an-array/) : [SortAnArray](./src/main/java/com/inbetter/homework/algorithm/SortAnArray.java)
-2. [数组的相对排序](https://leetcode.com/problems/relative-sort-array/) : [RelativeSortArray](./src/main/java/com/inbetter/homework/algorithm/RelativeSortArray.java)
-3. [合并区间](https://leetcode.com/problems/merge-intervals/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
+2. [数组的相对排序](https://leetcode.com/problems/relative-sort-array/) : [RelativeSortArray](./src/main/java/com/inbetter/homework/algorithm/RelativeSortArray.java) , [RelativeSortArrayWithCount](./src/main/java/com/inbetter/homework/algorithm/RelativeSortArrayWithCount.java)
+3. [合并区间](https://leetcode.com/problems/merge-intervals/) : [MergeIntervals](./src/main/java/com/inbetter/homework/algorithm/MergeIntervals.java)
 4. [数组中的第 K 个最大元素](https://leetcode.com/problems/kth-largest-element-in-an-array/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
 5. [货仓选址](https://www.acwing.com/problem/content/description/106/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
 6. [翻转对](https://leetcode.com/problems/reverse-pairs/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
