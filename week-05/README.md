@@ -41,7 +41,7 @@
 
 9. [排序数组](https://leetcode.com/problems/sort-an-array/) : [SortAnArray](./src/main/java/com/inbetter/homework/algorithm/SortAnArray.java)
 10. [数组的相对排序](https://leetcode.com/problems/relative-sort-array/) : [RelativeSortArray](./src/main/java/com/inbetter/homework/algorithm/RelativeSortArray.java) , [RelativeSortArrayWithCount](./src/main/java/com/inbetter/homework/algorithm/RelativeSortArrayWithCount.java)
-11. [合并区间](https://leetcode.com/problems/merge-intervals/) : [MergeIntervals](./src/main/java/com/inbetter/homework/algorithm/MergeIntervals.java)
-12. [数组中的第 K 个最大元素](https://leetcode.com/problems/kth-largest-element-in-an-array/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
-13. [货仓选址](https://www.acwing.com/problem/content/description/106/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
-14. [翻转对](https://leetcode.com/problems/reverse-pairs/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
+11. [合并区间](https://leetcode.com/problems/merge-intervals/) : [MergeIntervals](./src/main/java/com/inbetter/homework/algorithm/MergeIntervals.java) , [MergeIntervals](./src/main/java/com/inbetter/homework/algorithm/MergeIntervals2.java) , [MergeIntervals](./src/main/java/com/inbetter/homework/algorithm/MergeIntervals3.java)
+12. [数组中的第 K 个最大元素](https://leetcode.com/problems/kth-largest-element-in-an-array/) : [KthLargestElementInAnArray](./src/main/java/com/inbetter/homework/algorithm/KthLargestElementInAnArray.java)
+13. [货仓选址](https://www.acwing.com/problem/content/description/106/) : [WarehouseLocation](./src/main/java/com/inbetter/homework/algorithm/WarehouseLocation.java)
+14. [翻转对](https://leetcode.com/problems/reverse-pairs/) : [ReversePairs](./src/main/java/com/inbetter/homework/algorithm/ReversePairs.java)
