@@ -46,4 +46,4 @@
 40. [45. 跳跃游戏 II](https://leetcode.com/problems/jump-game-ii/) : [JumpGameII](./src/main/java/com/inbetter/homework/leetcode/JumpGameII.java)
 41. [42. 接雨水](https://leetcode.com/problems/trapping-rain-water/) : [TrappingRainWater](./src/main/java/com/inbetter/homework/leetcode/TrappingRainWater.java)
 42. [53. 最大子数组和](https://leetcode.com/problems/maximum-subarray/) : [MaximumSubarray](./src/main/java/com/inbetter/homework/leetcode/MaximumSubarray2.java)
-
+43. [300. 最长递增子序列](https://leetcode.com/problems/longest-increasing-subsequence/) : [LongestIncreasingSubsequence](./src/main/java/com/inbetter/homework/leetcode/LongestIncreasingSubsequence.java)
