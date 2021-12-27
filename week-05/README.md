@@ -16,28 +16,32 @@
 
 ## 实战例题
 
-#### 二分查找
+#### 第 9 课
+
+**二分查找**
 
 1. [二分查找](https://leetcode.com/problems/binary-search/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
 2. [寻找旋转排序数组中的最小值](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) : [FindMinimumInRotatedSortedArray](./src/main/java/com/inbetter/homework/algorithm/FindMinimumInRotatedSortedArray.java)
 3. [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) : [FindFirstAndLastPositionOfElementInSortedArray](./src/main/java/com/inbetter/homework/algorithm/FindFirstAndLastPositionOfElementInSortedArray.java)
 4. [Sqrt(x)](https://leetcode.com/problems/sqrtx/) : [Sqrtx](./src/main/java/com/inbetter/homework/algorithm/Sqrtx.java)
 
-#### 三分查找
+**三分查找**
 
-1. [寻找峰值](https://leetcode.com/problems/find-peak-element/) : [FindPeakElement](./src/main/java/com/inbetter/homework/algorithm/FindPeakElement.java)
+5. [寻找峰值](https://leetcode.com/problems/find-peak-element/) : [FindPeakElement](./src/main/java/com/inbetter/homework/algorithm/FindPeakElement.java)
 
-#### 二分答案
+**二分答案**
 
-1. [猜数字大小](https://leetcode.com/problems/guess-number-higher-or-lower/) : [GuessNumberHigherOrLower](./src/main/java/com/inbetter/homework/algorithm/GuessNumberHigherOrLower.java)
-2. [分割数组的最大值](https://leetcode.com/problems/split-array-largest-sum/) : [SplitArrayLargestSum](./src/main/java/com/inbetter/homework/algorithm/SplitArrayLargestSum.java)
-3. [制作 m 束花所需的最少天数](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) : [MinimumNumberOfDaysToMakeMBouquets](./src/main/java/com/inbetter/homework/algorithm/MinimumNumberOfDaysToMakeMBouquets.java)
+6. [猜数字大小](https://leetcode.com/problems/guess-number-higher-or-lower/) : [GuessNumberHigherOrLower](./src/main/java/com/inbetter/homework/algorithm/GuessNumberHigherOrLower.java)
+7. [分割数组的最大值](https://leetcode.com/problems/split-array-largest-sum/) : [SplitArrayLargestSum](./src/main/java/com/inbetter/homework/algorithm/SplitArrayLargestSum.java)
+8. [制作 m 束花所需的最少天数](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) : [MinimumNumberOfDaysToMakeMBouquets](./src/main/java/com/inbetter/homework/algorithm/MinimumNumberOfDaysToMakeMBouquets.java)
 
-#### 排序
+#### 第 10 课
 
-1. [排序数组](https://leetcode.com/problems/sort-an-array/) : [SortAnArray](./src/main/java/com/inbetter/homework/algorithm/SortAnArray.java)
-2. [数组的相对排序](https://leetcode.com/problems/relative-sort-array/) : [RelativeSortArray](./src/main/java/com/inbetter/homework/algorithm/RelativeSortArray.java) , [RelativeSortArrayWithCount](./src/main/java/com/inbetter/homework/algorithm/RelativeSortArrayWithCount.java)
-3. [合并区间](https://leetcode.com/problems/merge-intervals/) : [MergeIntervals](./src/main/java/com/inbetter/homework/algorithm/MergeIntervals.java)
-4. [数组中的第 K 个最大元素](https://leetcode.com/problems/kth-largest-element-in-an-array/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
-5. [货仓选址](https://www.acwing.com/problem/content/description/106/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
-6. [翻转对](https://leetcode.com/problems/reverse-pairs/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
+**排序**
+
+9. [排序数组](https://leetcode.com/problems/sort-an-array/) : [SortAnArray](./src/main/java/com/inbetter/homework/algorithm/SortAnArray.java)
+10. [数组的相对排序](https://leetcode.com/problems/relative-sort-array/) : [RelativeSortArray](./src/main/java/com/inbetter/homework/algorithm/RelativeSortArray.java) , [RelativeSortArrayWithCount](./src/main/java/com/inbetter/homework/algorithm/RelativeSortArrayWithCount.java)
+11. [合并区间](https://leetcode.com/problems/merge-intervals/) : [MergeIntervals](./src/main/java/com/inbetter/homework/algorithm/MergeIntervals.java)
+12. [数组中的第 K 个最大元素](https://leetcode.com/problems/kth-largest-element-in-an-array/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
+13. [货仓选址](https://www.acwing.com/problem/content/description/106/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)
+14. [翻转对](https://leetcode.com/problems/reverse-pairs/) : [BinarySearch](./src/main/java/com/inbetter/homework/algorithm/BinarySearch.java)

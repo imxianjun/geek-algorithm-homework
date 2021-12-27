@@ -36,15 +36,15 @@
 
 **动态规划的优化**
 
-1. [满足不等式的最大值](https://leetcode-cn.com/problems/max-value-of-equation/)
-2. [环形子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/)
+12. [满足不等式的最大值](https://leetcode-cn.com/problems/max-value-of-equation/)
+13. [环形子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/)
 
 **区间动态规划**
 
-3. [戳气球](https://leetcode-cn.com/problems/burst-balloons/)
-4. [合并石头的最低成本（选做）](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones/)
+14. [戳气球](https://leetcode-cn.com/problems/burst-balloons/)
+15. [合并石头的最低成本（选做）](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones/)
 
 **树形动态规划**
 
-5. [打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)
+16. [打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)
 

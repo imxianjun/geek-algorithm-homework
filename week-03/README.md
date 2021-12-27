@@ -10,39 +10,43 @@
 
 ## 实战例题
 
-#### 递归
+#### 第 5 课
+
+**递归**
 
 1. [子集](https://leetcode.com/problems/subsets/)
 2. [组合](https://leetcode.com/problems/combinations/)
 3. [全排列](https://leetcode.com/problems/permutations/)
 4. [全排列-ii](https://leetcode.com/problems/permutations-ii/)
 
-#### 树
+**树**
 
-1. [翻转二叉树](https://leetcode.com/problems/invert-binary-tree/description/)
-2. [验证二叉搜索树](https://leetcode.com/problems/validate-binary-search-tree/)
-3. [二叉树的最大深度](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-4. [二叉树的最小深度](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+5. [翻转二叉树](https://leetcode.com/problems/invert-binary-tree/description/)
+6. [验证二叉搜索树](https://leetcode.com/problems/validate-binary-search-tree/)
+7. [二叉树的最大深度](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+8. [二叉树的最小深度](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
-#### 分治
+**分治**
 
-1. [Pow(x, n)](https://leetcode.com/problems/powx-n/)
-2. [括号生成](https://leetcode.com/problems/generate-parentheses/)
+9. [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+10. [括号生成](https://leetcode.com/problems/generate-parentheses/)
 
-#### 树、二叉树、树的遍历
+#### 第 6 课
 
-1. [二叉树的中序遍历](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-2. [N 叉树的前序遍历](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)
-3. [N 叉树的层序遍历](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
-4. [二叉树的序列化与反序列化](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
-5. [从前序与中序遍历序列构造二叉树](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)           
+**树、二叉树、树的遍历**
+
+11. [二叉树的中序遍历](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+12. [N 叉树的前序遍历](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)
+13. [N 叉树的层序遍历](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
+14. [二叉树的序列化与反序列化](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+15. [从前序与中序遍历序列构造二叉树](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)           
                                 
-#### 树的直径、最近公共祖先、树的变形
+**树的直径、最近公共祖先、树的变形**
 
-1. [树的直径](https://leetcode.com/problems/tree-diameter/)
-2. [二叉树的最近公共祖先](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+16. [树的直径](https://leetcode.com/problems/tree-diameter/)
+17. [二叉树的最近公共祖先](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
-#### 图、图的遍历              
+**图、图的遍历**              
 
-1. [课程表](https://leetcode.com/problems/course-schedule/)
-2. [冗余连接](https://leetcode.com/problems/redundant-connection/description/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+18. [课程表](https://leetcode.com/problems/course-schedule/)
+19. [冗余连接](https://leetcode.com/problems/redundant-connection/description/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
