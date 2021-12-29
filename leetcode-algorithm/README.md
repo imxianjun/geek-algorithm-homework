@@ -48,3 +48,4 @@
 42. [53. 最大子数组和](https://leetcode.com/problems/maximum-subarray/) : [MaximumSubarray](./src/main/java/com/inbetter/homework/leetcode/MaximumSubarray2.java)
 43. [300. 最长递增子序列](https://leetcode.com/problems/longest-increasing-subsequence/) : [LongestIncreasingSubsequence](./src/main/java/com/inbetter/homework/leetcode/LongestIncreasingSubsequence.java)
 44. [152. 乘积最大子数组](https://leetcode.com/problems/maximum-product-subarray/) : [MaximumProductSubarray](./src/main/java/com/inbetter/homework/leetcode/MaximumProductSubarray.java)
+45. [121. 买卖股票的最佳时机](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) : [BestTimeToBuyAndSellStock](./src/main/java/com/inbetter/homework/leetcode/BestTimeToBuyAndSellStock.java)
