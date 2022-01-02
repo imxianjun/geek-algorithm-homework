@@ -1,4 +1,4 @@
-package com.inbetter.homework.algorithm.demo;
+package com.inbetter.homework.algorithm;
 
 public class CorporateFlightBookings {
 

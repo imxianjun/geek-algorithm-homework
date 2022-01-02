@@ -1,25 +1,12 @@
-package com.inbetter.homework.algorithm.demo;
+package com.inbetter.homework.algorithm;
 
-public class MaximumDepthOfBinaryTree2 {
-
-    private int depth, ans;
+public class MaximumDepthOfBinaryTree {
 
     public int maxDepth(TreeNode root) {
-        depth = 1;
-        ans = 0;
-        calcu(root);
-        return ans;
-    }
-
-    private void calcu(TreeNode root) {
         if (root == null) {
-            return;
+            return 0;
         }
-        ans = Math.max(ans, depth);
-        depth++;
-        calcu(root.left);
-        calcu(root.right);
-        depth--;
+        return Math.max(maxDepth(root.left), maxDepth(root.right)) + 1;
     }
 
     public class TreeNode {
