@@ -2,11 +2,11 @@
 
 ## 作业
 
-1. [完全平方数](https://leetcode.com/problems/perfect-squares/) : [NumberOfLongestIncreasingSubsequence](./src/main/java/com/inbetter/homework/algorithm/NumberOfLongestIncreasingSubsequence.java)
-2. [跳跃游戏](https://leetcode.com/problems/jump-game/) : [NumberOfLongestIncreasingSubsequence](./src/main/java/com/inbetter/homework/algorithm/NumberOfLongestIncreasingSubsequence.java)
-3. [跳跃游戏 II](https://leetcode.com/problems/jump-game-ii/) : [NumberOfLongestIncreasingSubsequence](./src/main/java/com/inbetter/homework/algorithm/NumberOfLongestIncreasingSubsequence.java)
-4. [最长回文子序列](https://leetcode.com/problems/longest-palindromic-subsequence/) : [NumberOfLongestIncreasingSubsequence](./src/main/java/com/inbetter/homework/algorithm/NumberOfLongestIncreasingSubsequence.java)
-5. [二叉树中的最大路径和](https://leetcode.com/problems/binary-tree-maximum-path-sum/) : [NumberOfLongestIncreasingSubsequence](./src/main/java/com/inbetter/homework/algorithm/NumberOfLongestIncreasingSubsequence.java)
+1. [完全平方数](https://leetcode.com/problems/perfect-squares/) : [PerfectSquares](./src/main/java/com/inbetter/homework/algorithm/PerfectSquares.java)
+2. [跳跃游戏](https://leetcode.com/problems/jump-game/) : [JumpGame](./src/main/java/com/inbetter/homework/algorithm/JumpGame.java)
+3. [跳跃游戏 II](https://leetcode.com/problems/jump-game-ii/) : [JumpGameII](./src/main/java/com/inbetter/homework/algorithm/JumpGameII.java)
+4. [最长回文子序列](https://leetcode.com/problems/longest-palindromic-subsequence/) : [LongestPalindromicSubsequence](./src/main/java/com/inbetter/homework/algorithm/LongestPalindromicSubsequence.java)
+5. [二叉树中的最大路径和](https://leetcode.com/problems/binary-tree-maximum-path-sum/) : [BinaryTreeMaximumPathSum](./src/main/java/com/inbetter/homework/algorithm/BinaryTreeMaximumPathSum.java)
 
 ## 实战例题
 
