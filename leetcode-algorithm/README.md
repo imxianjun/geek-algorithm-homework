@@ -52,3 +52,4 @@
 46. [122. 买卖股票的最佳时机 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) : [BestTimeToBuyAndSellStockII](./src/main/java/com/inbetter/homework/leetcode/BestTimeToBuyAndSellStockII2.java)
 47. [198. 打家劫舍](https://leetcode.com/problems/house-robber/) : [HouseRobber](./src/main/java/com/inbetter/homework/leetcode/HouseRobber.java)
 48. [72. 编辑距离](https://leetcode.com/problems/edit-distance/) : [EditDistance](./src/main/java/com/inbetter/homework/leetcode/EditDistance.java)
+49. [337. 打家劫舍 III](https://leetcode.com/problems/house-robber-iii/) : [HouseRobberIII](./src/main/java/com/inbetter/homework/leetcode/HouseRobberIII.java)
