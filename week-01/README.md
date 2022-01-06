@@ -4,7 +4,7 @@
 
 1. [加一](https://leetcode.com/problems/plus-one/) : [PlusOne](./src/main/java/com/inbetter/homework/algorithm/PlusOne.java)
 2. [合并两个有序链表](https://leetcode.com/problems/merge-two-sorted-lists/) : [MergeTwoSortedLists](./src/main/java/com/inbetter/homework/algorithm/MergeTwoSortedLists.java)
-3. [设计循环双端队列](https://leetcode.com/problems/design-circular-deque/) : [ListNode](./src/main/java/com/inbetter/homework/algorithm/ListNode.java)
+3. [设计循环双端队列](https://leetcode.com/problems/design-circular-deque/) : [MyCircularDeque](./src/main/java/com/inbetter/homework/algorithm/MyCircularDeque.java)
 4. [最大矩形（Hard）](https://leetcode.com/problems/maximal-rectangle/) : [MaximalRectangle](./src/main/java/com/inbetter/homework/algorithm/MaximalRectangle.java)
 
 ## 实战例题
