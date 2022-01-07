@@ -20,21 +20,21 @@
 
 **LRU**
 
-5. [LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
+5. [LRU 缓存机制](https://leetcode.com.com/problems/lru-cache/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
 
 #### 第 4 课
 
 **前缀和、差分**
 
-6. [统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
-7. [二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
-8. [航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
-9. [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
+6. [统计「优美子数组」](https://leetcode.com.com/problems/count-number-of-nice-subarrays/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
+7. [二维区域和检索 - 矩阵不可变](https://leetcode.com.com/problems/range-sum-query-2d-immutable/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
+8. [航班预订统计](https://leetcode.com.com/problems/corporate-flight-bookings/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
+9. [最大子序和](https://leetcode.com.com/problems/maximum-subarray/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
 
 **双指针扫描、滑动窗口**
 
-10. [两数之和](https://leetcode-cn.com/problems/two-sum/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
-11. [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
-12. [三数之和](https://leetcode-cn.com/problems/3sum/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
-13. [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
+10. [两数之和](https://leetcode.com.com/problems/two-sum/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
+11. [两数之和 II - 输入有序数组](https://leetcode.com.com/problems/two-sum-ii-input-array-is-sorted/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
+12. [三数之和](https://leetcode.com.com/problems/3sum/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
+13. [盛最多水的容器](https://leetcode.com.com/problems/container-with-most-water/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
