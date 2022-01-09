@@ -11,7 +11,7 @@
 
 **字典树（Trie）**
 
-1. [实现 Trie (前缀树)](https://leetcode.com/problems/implement-trie-prefix-tree/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
+1. [实现 Trie (前缀树)](https://leetcode.com/problems/implement-trie-prefix-tree/) : [WordSearchII](./src/main/java/com/inbetter/homework/algorithm/WordSearchII.java)
 2. [单词搜索 II](https://leetcode.com/problems/word-search-ii/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
 
 **并查集**
