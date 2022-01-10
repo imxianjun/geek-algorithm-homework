@@ -68,7 +68,7 @@
 
 13. [单词接龙](https://leetcode-cn.com/problems/word-ladder/)
 
-**启发式搜索：A* 算法**
+__启发式搜索：A* 算法__
 
 14. [滑动谜题](https://leetcode-cn.com/problems/sliding-puzzle/)
 15. [八数码](https://www.acwing.com/problem/content/847/)
