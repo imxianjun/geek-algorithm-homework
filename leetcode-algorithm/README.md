@@ -57,4 +57,5 @@
 51. [208. 实现 Trie (前缀树)](https://leetcode.com/problems/implement-trie-prefix-tree/) : [Trie](./src/main/java/com/inbetter/homework/leetcode/Trie.java)
 52. [145. 超市（acwing）](https://www.acwing.com/problem/content/147/) : [SuperMarket](./src/main/java/com/inbetter/homework/leetcode/SuperMarket.java)
 53. [547. 省份数量](https://leetcode.com/problems/number-of-provinces/) : [NumberOfProvinces](./src/main/java/com/inbetter/homework/leetcode/NumberOfProvinces.java)
+54. [1334. 阈值距离内邻居最少的城市](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) : [FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance](./src/main/java/com/inbetter/homework/leetcode/FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.java)
 
