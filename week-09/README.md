@@ -30,7 +30,7 @@
 
 ## 实战例题
 
-#### 第 17 课
+### 第 17 课
 
 **字符串基础知识**
 
@@ -52,7 +52,7 @@
 7. [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)
 8. [不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)
 
-#### 第 18 课
+### 第 18 课
 
 **搜索剪枝**
 

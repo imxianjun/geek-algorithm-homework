@@ -10,7 +10,7 @@
 
 ## 实战例题
 
-#### 第 5 课
+### 第 5 课
 
 **递归**
 
@@ -31,7 +31,7 @@
 9. [Pow(x, n)](https://leetcode.com/problems/powx-n/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
 10. [括号生成](https://leetcode.com/problems/generate-parentheses/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
 
-#### 第 6 课
+### 第 6 课
 
 **树、二叉树、树的遍历**
 

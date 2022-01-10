@@ -10,7 +10,7 @@
 
 ## 实战例题
 
-#### 动态规划（二）
+### 动态规划（二）
 
 **买卖股票系列问题**
 
@@ -32,7 +32,7 @@
 10. [分割等和子集](https://leetcode.com/problems/partition-equal-subset-sum/) : [NumberOfLongestIncreasingSubsequence](./src/main/java/com/inbetter/homework/algorithm/NumberOfLongestIncreasingSubsequence.java)
 11. [零钱兑换 II](https://leetcode.com/problems/coin-change-2/) : [NumberOfLongestIncreasingSubsequence](./src/main/java/com/inbetter/homework/algorithm/NumberOfLongestIncreasingSubsequence.java)
 
-#### 动态规划（三）
+### 动态规划（三）
 
 **动态规划的优化**
 

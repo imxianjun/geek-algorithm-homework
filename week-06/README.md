@@ -8,7 +8,7 @@
 
 ## 实战例题
 
-#### 第 11 课
+### 第 11 课
 
 **贪心**
 
@@ -19,7 +19,7 @@
 5. [跳跃游戏 II](https://leetcode.com/problems/jump-game-ii/) : [JumpGameII](./src/main/java/com/inbetter/homework/algorithm/JumpGameII.java)
 6. [完成所有任务的最少初始能量](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) : [MinimumInitialEnergyToFinishTasks](./src/main/java/com/inbetter/homework/algorithm/MinimumInitialEnergyToFinishTasks.java)
 
-#### 第 12 课
+### 第 12 课
 
 **动态规划（一）**
 

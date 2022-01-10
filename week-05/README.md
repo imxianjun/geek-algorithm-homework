@@ -16,7 +16,7 @@
 
 ## 实战例题
 
-#### 第 9 课
+### 第 9 课
 
 **二分查找**
 
@@ -35,7 +35,7 @@
 7. [分割数组的最大值](https://leetcode.com/problems/split-array-largest-sum/) : [SplitArrayLargestSum](./src/main/java/com/inbetter/homework/algorithm/SplitArrayLargestSum.java)
 8. [制作 m 束花所需的最少天数](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) : [MinimumNumberOfDaysToMakeMBouquets](./src/main/java/com/inbetter/homework/algorithm/MinimumNumberOfDaysToMakeMBouquets.java)
 
-#### 第 10 课
+### 第 10 课
 
 **排序**
 

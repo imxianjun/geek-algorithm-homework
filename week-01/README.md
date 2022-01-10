@@ -9,7 +9,7 @@
 
 ## 实战例题
 
-#### 第 1 课
+### 第 1 课
 
 **数组**
 
@@ -25,7 +25,7 @@
 7. [环形链表](https://leetcode.com.com/problems/linked-list-cycle/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
 8. [环形链表 II](https://leetcode.com.com/problems/linked-list-cycle-ii/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
 
-#### 第 2 课
+### 第 2 课
 
 **栈、队列**
 

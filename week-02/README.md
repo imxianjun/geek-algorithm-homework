@@ -9,7 +9,7 @@
 
 ## 实战例题
 
-#### 第 3 课
+### 第 3 课
 
 **无序集合、映射**
 
@@ -22,7 +22,7 @@
 
 5. [LRU 缓存机制](https://leetcode.com.com/problems/lru-cache/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
 
-#### 第 4 课
+### 第 4 课
 
 **前缀和、差分**
 

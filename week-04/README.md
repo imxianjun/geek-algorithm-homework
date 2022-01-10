@@ -8,7 +8,7 @@
 
 ## 实战例题
 
-#### 第 7 课
+### 第 7 课
 
 **DFS、BFS**
 
@@ -18,7 +18,7 @@
 4. [最小基因变化](https://leetcode.com/problems/minimum-genetic-mutation/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
 5. [矩阵中的最长递增路径](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
 
-#### 第 8 课
+### 第 8 课
 
 **二叉堆**
 

@@ -7,7 +7,7 @@
 
 ## 实战例题
 
-#### 第 15 课
+### 第 15 课
 
 **字典树（Trie）**
 
@@ -20,7 +20,7 @@
 4. [被围绕的区域](https://leetcode.com/problems/surrounded-regions/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
 5. [超市](https://www.acwing.com/problem/content/147/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
 
-#### 第 16 课
+### 第 16 课
 
 **最短路**
 
