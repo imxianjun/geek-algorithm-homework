@@ -60,3 +60,4 @@
 54. [1334. 阈值距离内邻居最少的城市](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) : [FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance](./src/main/java/com/inbetter/homework/leetcode/FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.java)
 55. [850. Dijkstra求最短路 II（AcWing）](https://www.acwing.com/problem/content/852/) : [DijkstraFindTheShortestPathII](./src/main/java/com/inbetter/homework/leetcode/DijkstraFindTheShortestPathII.java)
 56. [136. 邻值查找（AcWing）](https://www.acwing.com/problem/content/description/138/) : [AdjacentValueLookup](./src/main/java/com/inbetter/homework/leetcode/AdjacentValueLookup.java)
+57. [1584. 连接所有点的最小费用](https://leetcode.com/problems/min-cost-to-connect-all-points/) : [MinCostToConnectAllPoints](./src/main/java/com/inbetter/homework/leetcode/MinCostToConnectAllPoints.java)

@@ -18,8 +18,8 @@
 
 **同构 / 异位词系列问题**
 
-9. [同构字符串](https://leetcode.com/problems/isomorphic-strings/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
-10. [有效的字母异位词](https://leetcode.com/problems/valid-anagram/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
+9. [同构字符串](https://leetcode.com/problems/isomorphic-strings/) : [IsomorphicStrings](./src/main/java/com/inbetter/homework/algorithm/IsomorphicStrings.java)
+10. [有效的字母异位词](https://leetcode.com/problems/valid-anagram/) : [ValidAnagram](./src/main/java/com/inbetter/homework/algorithm/ValidAnagram.java)
 11. [字母异位词分组](https://leetcode.com/problems/group-anagrams/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
 12. [找到字符串中所有字母异位词](https://leetcode.com/problems/find-all-anagrams-in-a-string/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
 
