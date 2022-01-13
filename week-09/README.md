@@ -71,5 +71,5 @@
 __启发式搜索：A* 算法__
 
 14. [滑动谜题](https://leetcode.com/problems/sliding-puzzle/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
-15. [八数码](https://www.acwing.com/problem/content/847/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
-16. [八数码（打印方案）](https://www.acwing.com/problem/content/181/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
+15. [八数码（AcWing）](https://www.acwing.com/problem/content/847/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
+16. [八数码（AcWing：打印方案）](https://www.acwing.com/problem/content/181/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)

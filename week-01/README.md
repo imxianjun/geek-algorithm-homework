@@ -21,7 +21,7 @@
 
 4. [反转链表](https://leetcode.com.com/problems/reverse-linked-list/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
 5. [K 个一组翻转链表](https://leetcode.com.com/problems/reverse-nodes-in-k-group/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
-6. [邻值查找](https://www.acwing.com/problem/content/description/138/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
+6. [邻值查找（AcWing）](https://www.acwing.com/problem/content/description/138/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
 7. [环形链表](https://leetcode.com.com/problems/linked-list-cycle/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
 8. [环形链表 II](https://leetcode.com.com/problems/linked-list-cycle-ii/) : [FourSums](./src/main/java/com/inbetter/homework/algorithm/FourSums.java)
 

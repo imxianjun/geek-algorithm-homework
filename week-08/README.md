@@ -18,7 +18,7 @@
 
 3. [省份数量](https://leetcode.com/problems/number-of-provinces/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
 4. [被围绕的区域](https://leetcode.com/problems/surrounded-regions/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
-5. [超市](https://www.acwing.com/problem/content/147/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
+5. [超市（AcWing）](https://www.acwing.com/problem/content/147/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
 
 ### 第 16 课
 
@@ -26,7 +26,7 @@
 
 6. [网络延迟时间](https://leetcode.com/problems/network-delay-time/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
 7. [阈值距离内邻居最少的城市](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
-8. [Dijkstra 求最短路 II](https://www.acwing.com/problem/content/852/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
+8. [Dijkstra 求最短路 II（AcWing）](https://www.acwing.com/problem/content/852/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
 
 **最小生成树**
 
