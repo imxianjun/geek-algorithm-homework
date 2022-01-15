@@ -12,9 +12,8 @@ public class AdjacentValueLookup {
         Scanner scanner = new Scanner(System.in);
         n = scanner.nextInt();
 
-        Integer[] values = new Integer[n + 2];
+        Integer[] values = new Integer[n + 1];
         values[0] = 0;
-        values[n + 1] = 0;
         Map<Integer, Integer> map = new TreeMap<>();
         for (int i = 1; i <= n; i++) {
             int value = scanner.nextInt();
@@ -22,11 +21,16 @@ public class AdjacentValueLookup {
             values[i] = value;
         }
 
-        Integer[] indexes = new Integer[n + 2];
+        Integer[] indexes = new Integer[n + 1];
         indexes[0] = 0;
-        indexes[n + 1] = 0;
         for (int i = 1; i <= n; i++) {
             indexes[i] = map.get(values[i]);
+        }
+
+        Integer[] integers = map.values().toArray(new Integer[n]);
+
+        for (int i = 0; i < integers.length; i++) {
+            indexes[i + 1] = integers[i];
         }
 
         findMinimumValues(values, indexes);

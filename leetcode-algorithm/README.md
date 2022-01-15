@@ -61,3 +61,4 @@
 55. [850. Dijkstra求最短路 II（AcWing）](https://www.acwing.com/problem/content/852/) : [DijkstraFindTheShortestPathII](./src/main/java/com/inbetter/homework/leetcode/DijkstraFindTheShortestPathII.java)
 56. [136. 邻值查找（AcWing）](https://www.acwing.com/problem/content/description/138/) : [AdjacentValueLookup](./src/main/java/com/inbetter/homework/leetcode/AdjacentValueLookup.java)
 57. [1584. 连接所有点的最小费用](https://leetcode.com/problems/min-cost-to-connect-all-points/) : [MinCostToConnectAllPoints](./src/main/java/com/inbetter/homework/leetcode/MinCostToConnectAllPoints.java)
+58. [8. 字符串转换整数 (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) : [StringToInteger](./src/main/java/com/inbetter/homework/leetcode/StringToInteger.java)
