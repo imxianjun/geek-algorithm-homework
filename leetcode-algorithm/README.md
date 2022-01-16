@@ -62,3 +62,5 @@
 56. [136. 邻值查找（AcWing）](https://www.acwing.com/problem/content/description/138/) : [AdjacentValueLookup](./src/main/java/com/inbetter/homework/leetcode/AdjacentValueLookup.java)
 57. [1584. 连接所有点的最小费用](https://leetcode.com/problems/min-cost-to-connect-all-points/) : [MinCostToConnectAllPoints](./src/main/java/com/inbetter/homework/leetcode/MinCostToConnectAllPoints.java)
 58. [8. 字符串转换整数 (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) : [StringToInteger](./src/main/java/com/inbetter/homework/leetcode/StringToInteger.java)
+59. [28. 实现 strStr()](https://leetcode.com/problems/implement-strstr/) : [ImplementStrStr](./src/main/java/com/inbetter/homework/leetcode/ImplementStrStr.java)
+60. [125. 验证回文串](https://leetcode.com/problems/valid-palindrome/) : [ValidPalindrome](./src/main/java/com/inbetter/homework/leetcode/ValidPalindrome.java)
