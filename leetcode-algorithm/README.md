@@ -65,3 +65,4 @@
 59. [28. 实现 strStr()](https://leetcode.com/problems/implement-strstr/) : [ImplementStrStr](./src/main/java/com/inbetter/homework/leetcode/ImplementStrStr.java)
 60. [125. 验证回文串](https://leetcode.com/problems/valid-palindrome/) : [ValidPalindrome](./src/main/java/com/inbetter/homework/leetcode/ValidPalindrome.java)
 61. [680. 验证回文字符串 Ⅱ](https://leetcode.com/problems/valid-palindrome-ii/) : [ValidPalindromeII](./src/main/java/com/inbetter/homework/leetcode/ValidPalindromeII.java)
+62. [5. 最长回文子串](https://leetcode.com/problems/longest-palindromic-substring/) : [LongestPalindromicSubstring](./src/main/java/com/inbetter/homework/leetcode/LongestPalindromicSubstring.java)
