@@ -20,8 +20,8 @@
 
 9. [同构字符串](https://leetcode.com/problems/isomorphic-strings/) : [IsomorphicStrings](./src/main/java/com/inbetter/homework/algorithm/IsomorphicStrings.java)
 10. [有效的字母异位词](https://leetcode.com/problems/valid-anagram/) : [ValidAnagram](./src/main/java/com/inbetter/homework/algorithm/ValidAnagram.java)
-11. [字母异位词分组](https://leetcode.com/problems/group-anagrams/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
-12. [找到字符串中所有字母异位词](https://leetcode.com/problems/find-all-anagrams-in-a-string/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
+11. [字母异位词分组](https://leetcode.com/problems/group-anagrams/) : [GroupAnagrams](./src/main/java/com/inbetter/homework/algorithm/GroupAnagrams.java)
+12. [找到字符串中所有字母异位词](https://leetcode.com/problems/find-all-anagrams-in-a-string/) : [FindAllAnagramsInAString](./src/main/java/com/inbetter/homework/algorithm/FindAllAnagramsInAString.java)
 
 **字符串 + 动态规划**
 
@@ -49,7 +49,7 @@
 
 **字符串 + 动态规划**
 
-7. [正则表达式匹配](https://leetcode.com/problems/regular-expression-matching/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
+7. [正则表达式匹配](https://leetcode.com/problems/regular-expression-matching/) : [RegularExpressionMatching](./src/main/java/com/inbetter/homework/algorithm/RegularExpressionMatching.java)
 8. [不同的子序列](https://leetcode.com/problems/distinct-subsequences/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
 
 ### 第 18 课
