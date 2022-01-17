@@ -25,7 +25,7 @@
 
 **字符串 + 动态规划**
 
-13. [通配符匹配](https://leetcode.com/problems/wildcard-matching/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
+13. [通配符匹配](https://leetcode.com/problems/wildcard-matching/) : [WildcardMatching](./src/main/java/com/inbetter/homework/algorithm/WildcardMatching.java)
 14. [二进制矩阵中的最短路径](https://leetcode.com/problems/shortest-path-in-binary-matrix/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
 
 ## 实战例题
@@ -50,7 +50,7 @@
 **字符串 + 动态规划**
 
 7. [正则表达式匹配](https://leetcode.com/problems/regular-expression-matching/) : [RegularExpressionMatching](./src/main/java/com/inbetter/homework/algorithm/RegularExpressionMatching.java)
-8. [不同的子序列](https://leetcode.com/problems/distinct-subsequences/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
+8. [不同的子序列](https://leetcode.com/problems/distinct-subsequences/) : [DistinctSubsequences](./src/main/java/com/inbetter/homework/algorithm/DistinctSubsequences.java)
 
 ### 第 18 课
 
