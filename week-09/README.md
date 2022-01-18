@@ -26,7 +26,7 @@
 **字符串 + 动态规划**
 
 13. [通配符匹配](https://leetcode.com/problems/wildcard-matching/) : [WildcardMatching](./src/main/java/com/inbetter/homework/algorithm/WildcardMatching.java)
-14. [二进制矩阵中的最短路径](https://leetcode.com/problems/shortest-path-in-binary-matrix/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/algorithm/NumberOfIslands.java)
+14. [二进制矩阵中的最短路径](https://leetcode.com/problems/shortest-path-in-binary-matrix/) : [ShortestPathInBinaryMatrix](./src/main/java/com/inbetter/homework/algorithm/ShortestPathInBinaryMatrix.java)
 
 ## 实战例题
 
