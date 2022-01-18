@@ -2,8 +2,8 @@
 
 ## 作业
 
-1. 尝试用语言内置的有序集合库，或写一棵平衡树，来解决 [滑动窗口最大值](https://leetcode.com/problems/sliding-window-maximum/) : [ToLowerCase](./src/main/java/com/inbetter/homework/algorithm/ToLowerCase.java)
-2. 尝试用语言内置的有序集合库，或写一棵平衡树，来解决 [邻值查找（AcWing）]( https://www.acwing.com/problem/content/138/ ) : [ToLowerCase](./src/main/java/com/inbetter/homework/algorithm/ToLowerCase.java)
+1. [滑动窗口最大值](https://leetcode.com/problems/sliding-window-maximum/) : [ToLowerCase](./src/main/java/com/inbetter/homework/algorithm/ToLowerCase.java)
+2. [邻值查找（AcWing）]( https://www.acwing.com/problem/content/138/ ) : [ToLowerCase](./src/main/java/com/inbetter/homework/algorithm/ToLowerCase.java)
 3. [设计跳表（选做）](https://leetcode.com/problems/design-skiplist/) : [ToLowerCase](./src/main/java/com/inbetter/homework/algorithm/ToLowerCase.java)
 4. [普通平衡树（AcWing）](https://www.acwing.com/problem/content/255/) : [ToLowerCase](./src/main/java/com/inbetter/homework/algorithm/ToLowerCase.java)
 5. [掉落的方块](https://leetcode.com/problems/falling-squares/) : [ToLowerCase](./src/main/java/com/inbetter/homework/algorithm/ToLowerCase.java)
