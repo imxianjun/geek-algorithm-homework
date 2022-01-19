@@ -23,9 +23,9 @@
 
 **动态规划（一）**
 
-1. [零钱兑换](https://leetcode.com/problems/coin-change/) : [CoinChange2](./src/main/java/com/inbetter/homework/algorithm/CoinChange2.java)
-2. [不同路径 II](https://leetcode.com/problems/unique-paths-ii/) : [ClimbingStairs](./src/main/java/com/inbetter/homework/algorithm/ClimbingStairs.java)
-3. [最长公共子序列](https://leetcode.com/problems/longest-common-subsequence/) : [ClimbingStairs](./src/main/java/com/inbetter/homework/algorithm/ClimbingStairs.java)
-4. [最长递增子序列](https://leetcode.com/problems/longest-increasing-subsequence/) : [ClimbingStairs](./src/main/java/com/inbetter/homework/algorithm/ClimbingStairs.java)
-5. [最大子序和](https://leetcode.com/problems/maximum-subarray/) : [ClimbingStairs](./src/main/java/com/inbetter/homework/algorithm/ClimbingStairs.java)
-6. [乘积最大子数组](https://leetcode.com/problems/maximum-product-subarray/) : [ClimbingStairs](./src/main/java/com/inbetter/homework/algorithm/ClimbingStairs.java)
+7. [零钱兑换](https://leetcode.com/problems/coin-change/) : [CoinChange2](./src/main/java/com/inbetter/homework/algorithm/CoinChange2.java)
+8. [不同路径 II](https://leetcode.com/problems/unique-paths-ii/) : [UniquePathsII](./src/main/java/com/inbetter/homework/algorithm/UniquePathsII.java)
+9. [最长公共子序列](https://leetcode.com/problems/longest-common-subsequence/) : [LongestCommonSubsequence](./src/main/java/com/inbetter/homework/algorithm/LongestCommonSubsequence.java)
+10. [最长递增子序列](https://leetcode.com/problems/longest-increasing-subsequence/) : [LongestIncreasingSubsequence](./src/main/java/com/inbetter/homework/algorithm/LongestIncreasingSubsequence.java)
+11. [最大子序和](https://leetcode.com/problems/maximum-subarray/) : [MaximumSubarray](./src/main/java/com/inbetter/homework/algorithm/MaximumSubarray.java)
+12. [乘积最大子数组](https://leetcode.com/problems/maximum-product-subarray/) : [MaximumProductSubarray](./src/main/java/com/inbetter/homework/algorithm/MaximumProductSubarray.java)
