@@ -67,3 +67,4 @@
 61. [680. 验证回文字符串 Ⅱ](https://leetcode.com/problems/valid-palindrome-ii/) : [ValidPalindromeII](./src/main/java/com/inbetter/homework/leetcode/ValidPalindromeII.java)
 62. [5. 最长回文子串](https://leetcode.com/problems/longest-palindromic-substring/) : [LongestPalindromicSubstring](./src/main/java/com/inbetter/homework/leetcode/LongestPalindromicSubstring.java)
 63. [22. 括号生成](https://leetcode.com/problems/generate-parentheses/) : [GenerateParentheses](./src/main/java/com/inbetter/homework/leetcode/GenerateParentheses2.java)
+64. [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) : [ValidSudoku](./src/main/java/com/inbetter/homework/leetcode/ValidSudoku.java)
