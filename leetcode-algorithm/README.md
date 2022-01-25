@@ -68,3 +68,5 @@
 62. [5. 最长回文子串](https://leetcode.com/problems/longest-palindromic-substring/) : [LongestPalindromicSubstring](./src/main/java/com/inbetter/homework/leetcode/LongestPalindromicSubstring.java)
 63. [22. 括号生成](https://leetcode.com/problems/generate-parentheses/) : [GenerateParentheses](./src/main/java/com/inbetter/homework/leetcode/GenerateParentheses2.java)
 64. [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) : [ValidSudoku](./src/main/java/com/inbetter/homework/leetcode/ValidSudoku.java)
+65. [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) : [NumArray](./src/main/java/com/inbetter/homework/leetcode/NumArray.java)
+66. [191. 位1的个数](https://leetcode.com/problems/number-of-1-bits/) : [NumberOf1Bits](./src/main/java/com/inbetter/homework/leetcode/NumberOf1Bits.java)
