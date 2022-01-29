@@ -76,3 +76,10 @@
 70. [24. 两两交换链表中的节点](https://leetcode.com/problems/swap-nodes-in-pairs/) : [SwapNodesInPairs](./src/main/java/com/inbetter/homework/leetcode/SwapNodesInPairs.java)
 71. [142. 环形链表 II](https://leetcode.com/problems/linked-list-cycle-ii/) : [LinkedListCycleII](./src/main/java/com/inbetter/homework/leetcode/LinkedListCycleII2.java)
 72. [25. K 个一组翻转链表](https://leetcode.com/problems/reverse-nodes-in-k-group/) : [ReverseNodesInKGroup](./src/main/java/com/inbetter/homework/leetcode/ReverseNodesInKGroup2.java)
+73. [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) : [ImplementQueueUsingStacks](./src/main/java/com/inbetter/homework/leetcode/MyQueue.java)
+74. [20. 有效的括号](https://leetcode.com/problems/valid-parentheses/) : [ValidParentheses](./src/main/java/com/inbetter/homework/leetcode/ValidParentheses2.java)
+75. [225. 用队列实现栈](https://leetcode.com/problems/implement-stack-using-queues/) : [MyStack](./src/main/java/com/inbetter/homework/leetcode/MyStack.java)
+76. [703. 数据流中的第 K 大元素](https://leetcode.com/problems/kth-largest-element-in-a-stream/) : [KthLargest](./src/main/java/com/inbetter/homework/leetcode/KthLargest.java)
+77. [239. 滑动窗口最大值](https://leetcode.com/problems/sliding-window-maximum/) : [SlidingWindowMaximum](./src/main/java/com/inbetter/homework/leetcode/SlidingWindowMaximum2.java)
+
+ : [ValidParentheses](./src/main/java/com/inbetter/homework/leetcode/ValidParentheses2.java)
