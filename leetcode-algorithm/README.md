@@ -86,5 +86,8 @@
 75. [225. 用队列实现栈](https://leetcode.com/problems/implement-stack-using-queues/) : [MyStack](./src/main/java/com/inbetter/homework/leetcode/MyStack.java)
 76. [703. 数据流中的第 K 大元素](https://leetcode.com/problems/kth-largest-element-in-a-stream/) : [KthLargest](./src/main/java/com/inbetter/homework/leetcode/KthLargest.java)
 77. [239. 滑动窗口最大值](https://leetcode.com/problems/sliding-window-maximum/) : [SlidingWindowMaximum](./src/main/java/com/inbetter/homework/leetcode/SlidingWindowMaximum2.java)
-
+78. [242. 有效的字母异位词](https://leetcode.com/problems/valid-anagram/) : [ValidAnagram](./src/main/java/com/inbetter/homework/leetcode/ValidAnagram.java)
+79. [1. 两数之和](https://leetcode.com/problems/two-sum/) : [TwoSum](./src/main/java/com/inbetter/homework/leetcode/TwoSum2.java)
+80. [15. 三数之和](https://leetcode.com/problems/3sum/) : [ThreeSum](./src/main/java/com/inbetter/homework/leetcode/ThreeSum2.java)
+81. [18. 四数之和](https://leetcode.com/problems/4sum/) : [FourSum](./src/main/java/com/inbetter/homework/leetcode/FourSum.java)
  : [ValidParentheses](./src/main/java/com/inbetter/homework/leetcode/ValidParentheses2.java)

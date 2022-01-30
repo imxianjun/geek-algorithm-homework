@@ -18,12 +18,11 @@ public class SlidingWindowMaximum2 {
             }
         });
         for (int i = 0; i < length; i++) {
-            int start = i - k;
-            if (start >= 0) {
-                maxQueue.remove(start);
+            while (!maxQueue.isEmpty() && maxQueue.peek() < i - k + 1) {
+                maxQueue.remove();
             }
-            maxQueue.offer(i);
-            if (maxQueue.size() == k) {
+            maxQueue.add(i);
+            if (i - k + 1 >= 0) {
                 ans[i - k + 1] = nums[maxQueue.peek()];
             }
         }
