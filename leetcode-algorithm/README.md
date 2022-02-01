@@ -4,7 +4,7 @@
 
 ## Questions
 
-### [Algorithm Bootcamp 2021 Edition Daily](https://u.geekbang.org/subject/algorithm3rd)
+### [Algorithm Bootcamp 2021 Edition](https://u.geekbang.org/subject/algorithm3rd)
 
 1. [88.合并两个有序数组](https://leetcode.com/problems/merge-sorted-array/) : [MergeSortedArray](./src/main/java/com/inbetter/homework/leetcode/MergeSortedArray.java)
 2. [206.反转链表](https://leetcode.com/problems/reverse-linked-list/) : [ReverseLinkedList](./src/main/java/com/inbetter/homework/leetcode/ReverseLinkedList.java)
@@ -93,6 +93,11 @@
 82. [98. 验证二叉搜索树](https://leetcode.com/problems/validate-binary-search-tree/) : [ValidateBinarySearchTree](./src/main/java/com/inbetter/homework/leetcode/ValidateBinarySearchTree2.java)
 83. [235. 二叉搜索树的最近公共祖先](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) : [LowestCommonAncestorOfABinarySearchTree](./src/main/java/com/inbetter/homework/leetcode/LowestCommonAncestorOfABinarySearchTree.java)
 84. [236. 二叉树的最近公共祖先](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) : [LowestCommonAncestorOfABinaryTree](./src/main/java/com/inbetter/homework/leetcode/LowestCommonAncestorOfABinaryTree.java)
+85. [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) : [Pow](./src/main/java/com/inbetter/homework/leetcode/Pow3.java)
+86. [169. 多数元素](https://leetcode.com/problems/majority-element/) : [MajorityElement](./src/main/java/com/inbetter/homework/leetcode/MajorityElement.java)
+    , [MajorityElement](./src/main/java/com/inbetter/homework/leetcode/MajorityElement2.java)
+87. [53. 最大子数组和](https://leetcode.com/problems/maximum-subarray/) : [ MaximumSubarray](./src/main/java/com/inbetter/homework/leetcode/MaximumSubarray3.java)
+88. [242. 有效的字母异位词](https://leetcode.com/problems/valid-anagram/) : [ValidAnagram](./src/main/java/com/inbetter/homework/leetcode/ValidAnagram2.java)
+89. [438. 找到字符串中所有字母异位词](https://leetcode.com/problems/find-all-anagrams-in-a-string/) : [FindAllAnagramsInAString](./src/main/java/com/inbetter/homework/leetcode/FindAllAnagramsInAString.java)
 
-
- : [ValidParentheses](./src/main/java/com/inbetter/homework/leetcode/ValidParentheses2.java)
+: [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
