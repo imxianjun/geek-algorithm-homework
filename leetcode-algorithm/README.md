@@ -103,5 +103,9 @@
 91. [860. 柠檬水找零](https://leetcode.com/problems/lemonade-change/): [LemonadeChange](./src/main/java/com/inbetter/homework/leetcode/LemonadeChange.java)
 92. [455. 分发饼干](https://leetcode.com/problems/assign-cookies/): [AssignCookies](./src/main/java/com/inbetter/homework/leetcode/AssignCookies.java)
 93. [874. 模拟行走机器人](https://leetcode.com/problems/walking-robot-simulation/): [WalkingRobotSimulation](./src/main/java/com/inbetter/homework/leetcode/WalkingRobotSimulation.java)
+94. [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/): [BinaryTreeLevelOrderTraversal](./src/main/java/com/inbetter/homework/leetcode/BinaryTreeLevelOrderTraversal.java)
+95. [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/): [MaximumDepthOfBinaryTree](./src/main/java/com/inbetter/homework/leetcode/MaximumDepthOfBinaryTree.java)
+96. [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/): [MinimumDepthOfBinaryTree](./src/main/java/com/inbetter/homework/leetcode/MinimumDepthOfBinaryTree.java) , [MinimumDepthOfBinaryTree](./src/main/java/com/inbetter/homework/leetcode/MinimumDepthOfBinaryTree2.java)
+97. [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/): [GenerateParentheses](./src/main/java/com/inbetter/homework/leetcode/GenerateParentheses3.java)
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
