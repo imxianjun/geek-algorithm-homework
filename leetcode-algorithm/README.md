@@ -99,5 +99,9 @@
 87. [53. 最大子数组和](https://leetcode.com/problems/maximum-subarray/) : [ MaximumSubarray](./src/main/java/com/inbetter/homework/leetcode/MaximumSubarray3.java)
 88. [242. 有效的字母异位词](https://leetcode.com/problems/valid-anagram/) : [ValidAnagram](./src/main/java/com/inbetter/homework/leetcode/ValidAnagram2.java)
 89. [438. 找到字符串中所有字母异位词](https://leetcode.com/problems/find-all-anagrams-in-a-string/) : [FindAllAnagramsInAString](./src/main/java/com/inbetter/homework/leetcode/FindAllAnagramsInAString.java)
+90. [122. 买卖股票的最佳时机 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/): [BestTimeToBuyAndSellStockII](./src/main/java/com/inbetter/homework/leetcode/BestTimeToBuyAndSellStockII3.java)
+91. [860. 柠檬水找零](https://leetcode.com/problems/lemonade-change/): [LemonadeChange](./src/main/java/com/inbetter/homework/leetcode/LemonadeChange.java)
+92. [455. 分发饼干](https://leetcode.com/problems/assign-cookies/): [AssignCookies](./src/main/java/com/inbetter/homework/leetcode/AssignCookies.java)
+93. [874. 模拟行走机器人](https://leetcode.com/problems/walking-robot-simulation/): [WalkingRobotSimulation](./src/main/java/com/inbetter/homework/leetcode/WalkingRobotSimulation.java)
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
