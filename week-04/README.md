@@ -28,5 +28,5 @@
 **二叉搜索树**
 
 8. [二叉搜索树中的插入操作](https://leetcode.com/problems/insert-into-a-binary-search-tree/) : [InsertIntoABinarySearchTree](./src/main/java/com/inbetter/homework/algorithm/InsertIntoABinarySearchTree.java)
-9. [后继者](https://leetcode-cn.com/problems/successor-lcci/) : [SuccessorLCCI](./src/main/java/com/inbetter/homework/algorithm/SuccessorLCCI.java)
+9. [后继者](https://leetcode.com/problems/successor-lcci/) : [SuccessorLCCI](./src/main/java/com/inbetter/homework/algorithm/SuccessorLCCI.java)
 10. [删除二叉搜索树中的节点](https://leetcode.com/problems/delete-node-in-a-bst/) : [DeleteNodeInABST](./src/main/java/com/inbetter/homework/algorithm/DeleteNodeInABST.java)
