@@ -111,6 +111,8 @@
 99. [52. N皇后 II](https://leetcode.com/problems/n-queens-ii/) : [NQueensII](./src/main/java/com/inbetter/homework/leetcode/NQueensII.java)
 100. [36. 有效的数独](https://leetcode.com/problems/valid-sudoku/) : [ValidSudoku](./src/main/java/com/inbetter/homework/leetcode/ValidSudoku2.java)
 101. [37. 解数独](https://leetcode.com/problems/sudoku-solver/) : [SudokuSolver](./src/main/java/com/inbetter/homework/leetcode/SudokuSolver.java)
+102. [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/) : [Sqrt](./src/main/java/com/inbetter/homework/leetcode/Sqrt.java)
+103. [367. 有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) : [ValidPerfectSquare](./src/main/java/com/inbetter/homework/leetcode/ValidPerfectSquare.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
