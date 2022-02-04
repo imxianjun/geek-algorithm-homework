@@ -115,6 +115,10 @@
 103. [367. 有效的完全平方数](https://leetcode.com/problems/valid-perfect-square/) : [ValidPerfectSquare](./src/main/java/com/inbetter/homework/leetcode/ValidPerfectSquare.java)
 104. [208. 实现 Trie (前缀树)](https://leetcode.com/problems/implement-trie-prefix-tree/) : [ImplementTrie](./src/main/java/com/inbetter/homework/leetcode/ImplementTrie.java)
 105. [212. 单词搜索 II](https://leetcode.com/problems/word-search-ii/) : [WordSearchII](./src/main/java/com/inbetter/homework/leetcode/WordSearchII.java)
+106. [191. 位1的个数](https://leetcode.com/problems/number-of-1-bits/) : [NumberOf1Bits](./src/main/java/com/inbetter/homework/leetcode/NumberOf1Bits2.java)
+107. [231. 2 的幂](https://leetcode.com/problems/power-of-two/) : [PowerOfTwo](./src/main/java/com/inbetter/homework/leetcode/PowerOfTwo.java)
+108. [338. 比特位计数](https://leetcode.com/problems/counting-bits/) : [CountingBits](./src/main/java/com/inbetter/homework/leetcode/CountingBits.java)
+109. [52. N皇后 II](https://leetcode.com/problems/n-queens-ii/) : [NQueensII](./src/main/java/com/inbetter/homework/leetcode/NQueensII2.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
