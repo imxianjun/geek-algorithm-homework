@@ -1,31 +1,20 @@
 package com.inbetter.homework.leetcode;
 
-import java.util.Arrays;
 import java.util.List;
 
 public class Triangle {
 
     public int minimumTotal(List<List<Integer>> triangle) {
-        int row = triangle.size();
-        int col = triangle.get(row - 1).size();
-        int dp[][] = new int[row][col];
-        for (int i = 0; i < col; i++) {
-            Arrays.fill(dp[i], Integer.MAX_VALUE);
+        if (triangle.size() == 0) {
+            return 0;
         }
-        return min(0, 0, triangle, dp);
-    }
-
-    public int min(int row, int col, List<List<Integer>> al, int dp[][]) {
-        if (al.size() - 1 == row) {
-            return al.get(row).get(col);
+        int[] ans = new int[triangle.size() + 1];
+        for (int i = triangle.size() - 1; i >= 0; i--) {
+            for (int j = 0; j <= i; j++) {
+                ans[j] = triangle.get(i).get(j) + Math.min(ans[j], ans[j + 1]);
+            }
         }
-        if (dp[row][col] != Integer.MAX_VALUE) {
-            return dp[row][col];
-        }
-
-        int below = al.get(row).get(col) + min(row + 1, col, al, dp);
-        int diagnol = al.get(row).get(col) + min(row + 1, col + 1, al, dp);
-        return dp[row][col] = Math.min(below, diagnol);
+        return ans[0];
     }
 
 }
