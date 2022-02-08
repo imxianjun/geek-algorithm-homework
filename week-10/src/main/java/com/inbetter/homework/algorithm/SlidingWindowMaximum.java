@@ -9,10 +9,11 @@ public class SlidingWindowMaximum {
         }
         int numOfWindow=n-k+1;
         int[] result=new int[numOfWindow];
-        for (int start = 0; start < numOfWindow; start++) {
-            int end=start+k-1;
-            int maxVal=
-        }
+//        for (int start = 0; start < numOfWindow; start++) {
+//            int end=start+k-1;
+//            int maxVal=
+//        }
+        return nums;
     }
 
 }
