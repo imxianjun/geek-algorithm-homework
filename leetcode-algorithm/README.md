@@ -128,9 +128,9 @@
 116. [188. 买卖股票的最佳时机 IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) : [BestTimeToBuyAndSellStockIV](./src/main/java/com/inbetter/homework/leetcode/BestTimeToBuyAndSellStockIV.java)
 117. [309. 最佳买卖股票时机含冷冻期](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) : [BestTimeToBuyAndSellStockWithCooldown](./src/main/java/com/inbetter/homework/leetcode/BestTimeToBuyAndSellStockWithCooldown.java)
 118. [714. 买卖股票的最佳时机含手续费](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) : [BestTimeToBuyAndSellStockWithTransactionFee](./src/main/java/com/inbetter/homework/leetcode/BestTimeToBuyAndSellStockWithTransactionFee.java)
-119. [300. 最长递增子序列](https://leetcode.com/problems/longest-increasing-subsequence/) : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
-120. [322. 零钱兑换](https://leetcode.com/problems/coin-change/) : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
-121. [72. 编辑距离](https://leetcode.com/problems/edit-distance/) : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
+119. [300. 最长递增子序列](https://leetcode.com/problems/longest-increasing-subsequence/) : [LongestIncreasingSubsequence](./src/main/java/com/inbetter/homework/leetcode/LongestIncreasingSubsequence2.java) , [LongestIncreasingSubsequence](./src/main/java/com/inbetter/homework/leetcode/LongestIncreasingSubsequence3.java)
+120. [322. 零钱兑换](https://leetcode.com/problems/coin-change/) : [CoinChange](./src/main/java/com/inbetter/homework/leetcode/CoinChange2.java)
+121. [72. 编辑距离](https://leetcode.com/problems/edit-distance/) : [EditDistance](./src/main/java/com/inbetter/homework/leetcode/EditDistance2.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
