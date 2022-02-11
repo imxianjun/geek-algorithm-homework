@@ -1,12 +1,8 @@
 package com.inbetter.homework.leetcode;
 
-public class BestTimeToBuyAndSellStock2 {
+public class BestTimeToBuyAndSellStockIV {
 
-    public int maxProfit(int[] prices) {
-        return maxProfit(1, prices);
-    }
-
-    private int maxProfit(int k, int[] prices) {
+    public int maxProfit(int k, int[] prices) {
         int length = prices.length;
         int[][][] maxProfits = new int[length + 1][k + 1][2];
         for (int i = 1; i <= k; i++) {

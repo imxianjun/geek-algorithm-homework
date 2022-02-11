@@ -1,15 +1,11 @@
 package com.inbetter.homework.leetcode;
 
-public class BestTimeToBuyAndSellStock2 {
+public class BestTimeToBuyAndSellStockWithCooldown {
 
     public int maxProfit(int[] prices) {
-        return maxProfit(1, prices);
-    }
-
-    private int maxProfit(int k, int[] prices) {
         int length = prices.length;
-        int[][][] maxProfits = new int[length + 1][k + 1][2];
-        for (int i = 1; i <= k; i++) {
+        int[][][] maxProfits = new int[length + 1][length + 1][2];
+        for (int i = 1; i <= length; i++) {
             for (int j = length - 1; j >= 0; j--) {
                 for (int l = 0; l < 2; l++) {
                     int doNoting = maxProfits[j + 1][i][l];
@@ -23,7 +19,7 @@ public class BestTimeToBuyAndSellStock2 {
                 }
             }
         }
-        return maxProfits[0][k][0];
+        return maxProfits[0][length][0];
     }
 
 }
