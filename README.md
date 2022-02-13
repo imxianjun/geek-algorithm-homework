@@ -1,8 +1,6 @@
-# 算法训练营 2021 版
+# Algorithm Bootcamp 2021 Edition
 
-本项目为算法训练营 2021 版第二期作业
-
-> 偶尔真的想放弃掉！太难了！想了想，自己只是太懒散！
+This project is the second assignment in Algorithm Bootcamp 2021 Edition.
 
 ## leetcode algorithm
 
