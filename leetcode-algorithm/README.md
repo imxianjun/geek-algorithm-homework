@@ -131,6 +131,9 @@
 119. [300. 最长递增子序列](https://leetcode.com/problems/longest-increasing-subsequence/) : [LongestIncreasingSubsequence](./src/main/java/com/inbetter/homework/leetcode/LongestIncreasingSubsequence2.java) , [LongestIncreasingSubsequence](./src/main/java/com/inbetter/homework/leetcode/LongestIncreasingSubsequence3.java)
 120. [322. 零钱兑换](https://leetcode.com/problems/coin-change/) : [CoinChange](./src/main/java/com/inbetter/homework/leetcode/CoinChange2.java)
 121. [72. 编辑距离](https://leetcode.com/problems/edit-distance/) : [EditDistance](./src/main/java/com/inbetter/homework/leetcode/EditDistance2.java)
+122. [200. 岛屿数量](https://leetcode.com/problems/number-of-islands/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/leetcode/NumberOfIslands2.java)
+123. [547. 省份数量](https://leetcode.com/problems/number-of-provinces/) : [NumberOfProvinces](./src/main/java/com/inbetter/homework/leetcode/NumberOfProvinces2.java)
+124. [146. LRU 缓存](https://leetcode.com/problems/lru-cache/) : [LRUCache](./src/main/java/com/inbetter/homework/leetcode/LRUCache2.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
