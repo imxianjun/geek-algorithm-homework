@@ -134,7 +134,11 @@
 122. [200. 岛屿数量](https://leetcode.com/problems/number-of-islands/) : [NumberOfIslands](./src/main/java/com/inbetter/homework/leetcode/NumberOfIslands2.java)
 123. [547. 省份数量](https://leetcode.com/problems/number-of-provinces/) : [NumberOfProvinces](./src/main/java/com/inbetter/homework/leetcode/NumberOfProvinces2.java)
 124. [146. LRU 缓存](https://leetcode.com/problems/lru-cache/) : [LRUCache](./src/main/java/com/inbetter/homework/leetcode/LRUCache2.java)
+
+#### Insist
+
 125. [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) : [MaximumDepthOfBinaryTree](./src/main/java/com/inbetter/homework/leetcode/MaximumDepthOfBinaryTree2.java)
+126. [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) : [SingleNumber](./src/main/java/com/inbetter/homework/leetcode/SingleNumber.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
