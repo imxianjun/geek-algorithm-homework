@@ -141,6 +141,7 @@
 126. [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) : [SingleNumber](./src/main/java/com/inbetter/homework/leetcode/SingleNumber.java)
 127. [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) : [SwapNodesInPairs](./src/main/java/com/inbetter/homework/leetcode/SwapNodesInPairs2.java)
 128. [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) : [CombinationSum](./src/main/java/com/inbetter/homework/leetcode/CombinationSum.java)
+129. [402. 移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits/) : [RemoveKDigits](./src/main/java/com/inbetter/homework/leetcode/RemoveKDigits.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
