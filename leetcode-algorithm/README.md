@@ -143,6 +143,7 @@
 128. [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) : [CombinationSum](./src/main/java/com/inbetter/homework/leetcode/CombinationSum.java)
 129. [402. 移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits/) : [RemoveKDigits](./src/main/java/com/inbetter/homework/leetcode/RemoveKDigits.java)
 130. [1675. 数组的最小偏移量](https://leetcode-cn.com/problems/minimize-deviation-in-array/) : [MinimizeDeviationInArray](./src/main/java/com/inbetter/homework/leetcode/MinimizeDeviationInArray.java)
+131. [1288. 删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals/) : [RemoveCoveredIntervals](./src/main/java/com/inbetter/homework/leetcode/RemoveCoveredIntervals.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
