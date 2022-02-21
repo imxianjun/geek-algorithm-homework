@@ -144,6 +144,7 @@
 129. [402. 移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits/) : [RemoveKDigits](./src/main/java/com/inbetter/homework/leetcode/RemoveKDigits.java)
 130. [1675. 数组的最小偏移量](https://leetcode-cn.com/problems/minimize-deviation-in-array/) : [MinimizeDeviationInArray](./src/main/java/com/inbetter/homework/leetcode/MinimizeDeviationInArray.java)
 131. [1288. 删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals/) : [RemoveCoveredIntervals](./src/main/java/com/inbetter/homework/leetcode/RemoveCoveredIntervals.java)
+132. [169. 多数元素](https://leetcode-cn.com/problems/majority-element/) : [MajorityElement](./src/main/java/com/inbetter/homework/leetcode/MajorityElement3.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
