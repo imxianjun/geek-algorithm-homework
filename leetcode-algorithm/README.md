@@ -1,6 +1,8 @@
 # Leetcode Algorithm
 
-战！战！战！吾不逊于任何人！
+想当年，意指星辰，气吞万里如虎；
+
+到而今，心在毫厘
 
 ## Questions
 
@@ -145,6 +147,8 @@
 130. [1675. 数组的最小偏移量](https://leetcode-cn.com/problems/minimize-deviation-in-array/) : [MinimizeDeviationInArray](./src/main/java/com/inbetter/homework/leetcode/MinimizeDeviationInArray.java)
 131. [1288. 删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals/) : [RemoveCoveredIntervals](./src/main/java/com/inbetter/homework/leetcode/RemoveCoveredIntervals.java)
 132. [169. 多数元素](https://leetcode-cn.com/problems/majority-element/) : [MajorityElement](./src/main/java/com/inbetter/homework/leetcode/MajorityElement3.java)
+133. [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) : [AddTwoNumbers](./src/main/java/com/inbetter/homework/leetcode/AddTwoNumbers.java)
+134. [171. Excel 表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) : [ExcelSheetColumnNumber](./src/main/java/com/inbetter/homework/leetcode/ExcelSheetColumnNumber.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
