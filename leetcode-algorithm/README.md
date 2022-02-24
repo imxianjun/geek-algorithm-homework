@@ -139,18 +139,18 @@
 
 #### Insist
 
-125. [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) : [MaximumDepthOfBinaryTree](./src/main/java/com/inbetter/homework/leetcode/MaximumDepthOfBinaryTree2.java)
-126. [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) : [SingleNumber](./src/main/java/com/inbetter/homework/leetcode/SingleNumber.java)
-127. [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) : [SwapNodesInPairs](./src/main/java/com/inbetter/homework/leetcode/SwapNodesInPairs2.java)
-128. [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) : [CombinationSum](./src/main/java/com/inbetter/homework/leetcode/CombinationSum.java)
-129. [402. 移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits/) : [RemoveKDigits](./src/main/java/com/inbetter/homework/leetcode/RemoveKDigits.java)
-130. [1675. 数组的最小偏移量](https://leetcode-cn.com/problems/minimize-deviation-in-array/) : [MinimizeDeviationInArray](./src/main/java/com/inbetter/homework/leetcode/MinimizeDeviationInArray.java)
-131. [1288. 删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals/) : [RemoveCoveredIntervals](./src/main/java/com/inbetter/homework/leetcode/RemoveCoveredIntervals.java)
-132. [169. 多数元素](https://leetcode-cn.com/problems/majority-element/) : [MajorityElement](./src/main/java/com/inbetter/homework/leetcode/MajorityElement3.java)
-133. [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) : [AddTwoNumbers](./src/main/java/com/inbetter/homework/leetcode/AddTwoNumbers.java)
-134. [171. Excel 表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) : [ExcelSheetColumnNumber](./src/main/java/com/inbetter/homework/leetcode/ExcelSheetColumnNumber.java)
-135. [133. 克隆图](https://leetcode-cn.com/problems/clone-graph/) : [CloneGraph](./src/main/java/com/inbetter/homework/leetcode/CloneGraph.java)
-136. [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) : [SortList](./src/main/java/com/inbetter/homework/leetcode/SortList.java)
+125. [104. 二叉树的最大深度](https://leetcode.com/problems/maximum-depth-of-binary-tree/) : [MaximumDepthOfBinaryTree](./src/main/java/com/inbetter/homework/leetcode/MaximumDepthOfBinaryTree2.java)
+126. [136. 只出现一次的数字](https://leetcode.com/problems/single-number/) : [SingleNumber](./src/main/java/com/inbetter/homework/leetcode/SingleNumber.java)
+127. [24. 两两交换链表中的节点](https://leetcode.com/problems/swap-nodes-in-pairs/) : [SwapNodesInPairs](./src/main/java/com/inbetter/homework/leetcode/SwapNodesInPairs2.java)
+128. [39. 组合总和](https://leetcode.com/problems/combination-sum/) : [CombinationSum](./src/main/java/com/inbetter/homework/leetcode/CombinationSum.java)
+129. [402. 移掉 K 位数字](https://leetcode.com/problems/remove-k-digits/) : [RemoveKDigits](./src/main/java/com/inbetter/homework/leetcode/RemoveKDigits.java)
+130. [1675. 数组的最小偏移量](https://leetcode.com/problems/minimize-deviation-in-array/) : [MinimizeDeviationInArray](./src/main/java/com/inbetter/homework/leetcode/MinimizeDeviationInArray.java)
+131. [1288. 删除被覆盖区间](https://leetcode.com/problems/remove-covered-intervals/) : [RemoveCoveredIntervals](./src/main/java/com/inbetter/homework/leetcode/RemoveCoveredIntervals.java)
+132. [169. 多数元素](https://leetcode.com/problems/majority-element/) : [MajorityElement](./src/main/java/com/inbetter/homework/leetcode/MajorityElement3.java)
+133. [2. 两数相加](https://leetcode.com/problems/add-two-numbers/) : [AddTwoNumbers](./src/main/java/com/inbetter/homework/leetcode/AddTwoNumbers.java)
+134. [171. Excel 表列序号](https://leetcode.com/problems/excel-sheet-column-number/) : [ExcelSheetColumnNumber](./src/main/java/com/inbetter/homework/leetcode/ExcelSheetColumnNumber.java)
+135. [133. 克隆图](https://leetcode.com/problems/clone-graph/) : [CloneGraph](./src/main/java/com/inbetter/homework/leetcode/CloneGraph.java)
+136. [148. 排序链表](https://leetcode.com/problems/sort-list/) : [SortList](./src/main/java/com/inbetter/homework/leetcode/SortList.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
