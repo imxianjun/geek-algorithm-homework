@@ -2,6 +2,8 @@
 
 This project is the second assignment in Algorithm Bootcamp 2021 Edition.
 
+> Sometimes , I don't know if I will be proficiency in algorithms . Just do it !
+
 ## leetcode algorithm
 
 [leetcode algorithm](./leetcode-algorithm)
