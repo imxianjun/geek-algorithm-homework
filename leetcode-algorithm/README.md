@@ -156,6 +156,7 @@
 139. [662. 二叉树最大宽度](https://leetcode.com/problems/maximum-width-of-binary-tree/) : [MaximumWidthOfBinaryTree](./src/main/java/com/inbetter/homework/leetcode/MaximumWidthOfBinaryTree.java)
 140. [228. 汇总区间](https://leetcode.com/problems/summary-ranges/) : [SummaryRanges](./src/main/java/com/inbetter/homework/leetcode/SummaryRanges.java)
 141. [338. 比特位计数](https://leetcode.com/problems/counting-bits/) : [CountingBits](./src/main/java/com/inbetter/homework/leetcode/CountingBits2.java)
+142. [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/) : [IsSubsequence](./src/main/java/com/inbetter/homework/leetcode/IsSubsequence.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
