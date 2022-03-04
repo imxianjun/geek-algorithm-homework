@@ -157,6 +157,8 @@
 140. [228. 汇总区间](https://leetcode.com/problems/summary-ranges/) : [SummaryRanges](./src/main/java/com/inbetter/homework/leetcode/SummaryRanges.java)
 141. [338. 比特位计数](https://leetcode.com/problems/counting-bits/) : [CountingBits](./src/main/java/com/inbetter/homework/leetcode/CountingBits2.java)
 142. [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/) : [IsSubsequence](./src/main/java/com/inbetter/homework/leetcode/IsSubsequence.java)
+143. [413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) : [ArithmeticSlices](./src/main/java/com/inbetter/homework/leetcode/ArithmeticSlices.java)
+144. [799. 香槟塔](https://leetcode-cn.com/problems/champagne-tower/) : [ChampagneTower](./src/main/java/com/inbetter/homework/leetcode/ChampagneTower.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
