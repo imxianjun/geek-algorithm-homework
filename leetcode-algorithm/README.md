@@ -159,6 +159,8 @@
 142. [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/) : [IsSubsequence](./src/main/java/com/inbetter/homework/leetcode/IsSubsequence.java)
 143. [413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) : [ArithmeticSlices](./src/main/java/com/inbetter/homework/leetcode/ArithmeticSlices.java)
 144. [799. 香槟塔](https://leetcode-cn.com/problems/champagne-tower/) : [ChampagneTower](./src/main/java/com/inbetter/homework/leetcode/ChampagneTower.java)
+145. [740. 删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/) : [DeleteAndEarn](./src/main/java/com/inbetter/homework/leetcode/DeleteAndEarn.java)
+146. [1359. 有效的快递序列数目](https://leetcode-cn.com/problems/count-all-valid-pickup-and-delivery-options/) : [CountAllValidPickupAndDeliveryOptions](./src/main/java/com/inbetter/homework/leetcode/CountAllValidPickupAndDeliveryOptions.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
