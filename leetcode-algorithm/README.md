@@ -162,6 +162,7 @@
 145. [740. 删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/) : [DeleteAndEarn](./src/main/java/com/inbetter/homework/leetcode/DeleteAndEarn.java)
 146. [1359. 有效的快递序列数目](https://leetcode-cn.com/problems/count-all-valid-pickup-and-delivery-options/) : [CountAllValidPickupAndDeliveryOptions](./src/main/java/com/inbetter/homework/leetcode/CountAllValidPickupAndDeliveryOptions.java)
 147. [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) : [MergeTwoSortedLists](./src/main/java/com/inbetter/homework/leetcode/MergeTwoSortedLists.java)
+148. [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) : [LinkedListCycle](./src/main/java/com/inbetter/homework/leetcode/LinkedListCycle3.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
