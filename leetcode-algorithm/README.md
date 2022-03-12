@@ -167,6 +167,7 @@
 150. [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) : [AddTwoNumbers](./src/main/java/com/inbetter/homework/leetcode/AddTwoNumbers2.java)
 151. [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) : [RotateList](./src/main/java/com/inbetter/homework/leetcode/RotateList.java)
 152. [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) : [CopyListWithRandomPointer](./src/main/java/com/inbetter/homework/leetcode/CopyListWithRandomPointer.java)
+153. [590. N 叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) : [NAryTreePostorderTraversal](./src/main/java/com/inbetter/homework/leetcode/NAryTreePostorderTraversal.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
