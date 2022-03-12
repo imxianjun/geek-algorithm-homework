@@ -165,6 +165,8 @@
 148. [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) : [LinkedListCycle](./src/main/java/com/inbetter/homework/leetcode/LinkedListCycle3.java)
 149. [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) : [RemoveDuplicatesFromSortedListII](./src/main/java/com/inbetter/homework/leetcode/RemoveDuplicatesFromSortedListII.java)
 150. [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) : [AddTwoNumbers](./src/main/java/com/inbetter/homework/leetcode/AddTwoNumbers2.java)
+151. [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) : [RotateList](./src/main/java/com/inbetter/homework/leetcode/RotateList.java)
+152. [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) : [CopyListWithRandomPointer](./src/main/java/com/inbetter/homework/leetcode/CopyListWithRandomPointer.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
