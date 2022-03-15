@@ -170,6 +170,7 @@
 153. [590. N 叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) : [NAryTreePostorderTraversal](./src/main/java/com/inbetter/homework/leetcode/NAryTreePostorderTraversal.java)
 154. [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) : [ValidParentheses](./src/main/java/com/inbetter/homework/leetcode/ValidParentheses3.java)
 155. [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/) : [SimplifyPath](./src/main/java/com/inbetter/homework/leetcode/SimplifyPath.java)
+156. [1249. 移除无效的括号](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/) : [MinimumRemoveToMakeValidParentheses](./src/main/java/com/inbetter/homework/leetcode/MinimumRemoveToMakeValidParentheses.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
