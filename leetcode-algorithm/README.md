@@ -171,7 +171,9 @@
 154. [20. 有效的括号](https://leetcode.com/problems/valid-parentheses/) : [ValidParentheses](./src/main/java/com/inbetter/homework/leetcode/ValidParentheses3.java)
 155. [71. 简化路径](https://leetcode.com/problems/simplify-path/) : [SimplifyPath](./src/main/java/com/inbetter/homework/leetcode/SimplifyPath.java)
 156. [1249. 移除无效的括号](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) : [MinimumRemoveToMakeValidParentheses](./src/main/java/com/inbetter/homework/leetcode/MinimumRemoveToMakeValidParentheses.java)
-157. [946. 验证栈序列](https://leetcode.com/problems/validate-stack-sequences/) : [ValidateStackSequences](./src/main/java/com/inbetter/homework/leetcode/ValidateStackSequences.java)
+157. [946. 验证栈序列](https://leetcode.com/problems/validate-stack-sequences/) : [ValidateStackSequences](./src/main/java/com/inbetter/homework/leetcode/ValidateStackSequences.java) 
+158. [720. 词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/) : [LongestWordInDictionary](./src/main/java/com/inbetter/homework/leetcode/LongestWordInDictionary.java)
+159. [856. 括号的分数](https://leetcode-cn.com/problems/score-of-parentheses/) : [ScoreOfParentheses](./src/main/java/com/inbetter/homework/leetcode/ScoreOfParentheses.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
