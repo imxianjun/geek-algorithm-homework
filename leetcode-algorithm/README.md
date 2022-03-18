@@ -174,6 +174,7 @@
 157. [946. 验证栈序列](https://leetcode.com/problems/validate-stack-sequences/) : [ValidateStackSequences](./src/main/java/com/inbetter/homework/leetcode/ValidateStackSequences.java) 
 158. [720. 词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/) : [LongestWordInDictionary](./src/main/java/com/inbetter/homework/leetcode/LongestWordInDictionary.java)
 159. [856. 括号的分数](https://leetcode-cn.com/problems/score-of-parentheses/) : [ScoreOfParentheses](./src/main/java/com/inbetter/homework/leetcode/ScoreOfParentheses.java)
+160. [316. 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/) : [RemoveDuplicateLetters](./src/main/java/com/inbetter/homework/leetcode/RemoveDuplicateLetters.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
