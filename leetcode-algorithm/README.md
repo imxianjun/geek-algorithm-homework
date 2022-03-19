@@ -176,6 +176,7 @@
 159. [856. 括号的分数](https://leetcode-cn.com/problems/score-of-parentheses/) : [ScoreOfParentheses](./src/main/java/com/inbetter/homework/leetcode/ScoreOfParentheses.java)
 160. [316. 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/) : [RemoveDuplicateLetters](./src/main/java/com/inbetter/homework/leetcode/RemoveDuplicateLetters.java)
 161. [895. 最大频率栈](https://leetcode-cn.com/problems/maximum-frequency-stack/) : [FreqStack](./src/main/java/com/inbetter/homework/leetcode/FreqStack.java)
+162. [606. 根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) : [ConstructStringFromBinaryTree](./src/main/java/com/inbetter/homework/leetcode/ConstructStringFromBinaryTree.java)
 
 
  : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
