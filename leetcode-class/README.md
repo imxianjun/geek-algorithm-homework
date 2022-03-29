@@ -10,7 +10,8 @@
 4. [1029. 两地调度](https://leetcode-cn.com/problems/two-city-scheduling/): [TwoCityScheduling](./src/main/java/com/inbetter/homework/leetcode/TwoCityScheduling.java)
 5. [1337. 矩阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/): [TheKWeakestRowsInAMatrix](./src/main/java/com/inbetter/homework/leetcode/TheKWeakestRowsInAMatrix.java)
 6. [704. 二分查找](https://leetcode-cn.com/problems/binary-search/): [BinarySearch](./src/main/java/com/inbetter/homework/leetcode/BinarySearch.java)
-
+7. [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/): [SearchInRotatedSortedArrayII](./src/main/java/com/inbetter/homework/leetcode/SearchInRotatedSortedArrayII.java)
+8. [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/): [FindTheDuplicateNumber](./src/main/java/com/inbetter/homework/leetcode/FindTheDuplicateNumber.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
