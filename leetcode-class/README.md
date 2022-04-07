@@ -19,6 +19,8 @@
 13. [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/): [NextPermutation](./src/main/java/com/inbetter/homework/leetcode/NextPermutation.java)
 14. [1721. 交换链表中的节点](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list/): [SwappingNodesInALinkedList](./src/main/java/com/inbetter/homework/leetcode/SwappingNodesInALinkedList.java)
 15. [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/): [ContainerWithMostWater](./src/main/java/com/inbetter/homework/leetcode/ContainerWithMostWater.java)
+16. [923. 三数之和的多种可能](https://leetcode-cn.com/problems/3sum-with-multiplicity/): [3SumWithMultiplicity](./src/main/java/com/inbetter/homework/leetcode/ThreeSumWithMultiplicity.java)
+17. [1046. 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/): [LastStoneWeight](./src/main/java/com/inbetter/homework/leetcode/LastStoneWeight.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
