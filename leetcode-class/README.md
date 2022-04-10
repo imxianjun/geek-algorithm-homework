@@ -23,6 +23,7 @@
 17. [1046. 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/): [LastStoneWeight](./src/main/java/com/inbetter/homework/leetcode/LastStoneWeight.java)
 18. [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/): [KthLargestElementInAStream](./src/main/java/com/inbetter/homework/leetcode/KthLargest.java)
 19. [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/): [TopKFrequentElements](./src/main/java/com/inbetter/homework/leetcode/TopKFrequentElements.java)
+20. [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/): [BaseballGame](./src/main/java/com/inbetter/homework/leetcode/BaseballGame.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
