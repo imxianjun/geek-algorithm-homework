@@ -25,6 +25,7 @@
 19. [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/): [TopKFrequentElements](./src/main/java/com/inbetter/homework/leetcode/TopKFrequentElements.java)
 20. [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/): [BaseballGame](./src/main/java/com/inbetter/homework/leetcode/BaseballGame.java)
 21. [1260. 二维网格迁移](https://leetcode-cn.com/problems/shift-2d-grid/): [Shift2DGrid](./src/main/java/com/inbetter/homework/leetcode/Shift2DGrid.java)
+22. [289. 生命游戏](https://leetcode-cn.com/problems/game-of-life/): [GameOfLife](./src/main/java/com/inbetter/homework/leetcode/GameOfLife.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
