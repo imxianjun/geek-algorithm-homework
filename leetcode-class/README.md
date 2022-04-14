@@ -26,6 +26,8 @@
 20. [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/): [BaseballGame](./src/main/java/com/inbetter/homework/leetcode/BaseballGame.java)
 21. [1260. 二维网格迁移](https://leetcode-cn.com/problems/shift-2d-grid/): [Shift2DGrid](./src/main/java/com/inbetter/homework/leetcode/Shift2DGrid.java)
 22. [289. 生命游戏](https://leetcode-cn.com/problems/game-of-life/): [GameOfLife](./src/main/java/com/inbetter/homework/leetcode/GameOfLife.java)
+23. [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/): [SpiralMatrixII](./src/main/java/com/inbetter/homework/leetcode/SpiralMatrixII.java)
+24. [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/): [SearchInABinarySearchTree](./src/main/java/com/inbetter/homework/leetcode/SearchInABinarySearchTree.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
