@@ -29,6 +29,8 @@
 23. [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/): [SpiralMatrixII](./src/main/java/com/inbetter/homework/leetcode/SpiralMatrixII.java)
 24. [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/): [SearchInABinarySearchTree](./src/main/java/com/inbetter/homework/leetcode/SearchInABinarySearchTree.java)
 25. [669. 修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/): [TrimABinarySearchTree](./src/main/java/com/inbetter/homework/leetcode/TrimABinarySearchTree.java)
+26. [538. 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/): [ConvertBSTToGreaterTree](./src/main/java/com/inbetter/homework/leetcode/ConvertBSTToGreaterTree.java)
+27. [897. 递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/): [IncreasingOrderSearchTree](./src/main/java/com/inbetter/homework/leetcode/IncreasingOrderSearchTree.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
