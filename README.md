@@ -8,6 +8,11 @@ This project is the second assignment in Algorithm Bootcamp 2021 Edition.
 
 [leetcode algorithm](./leetcode-algorithm)
 
+
+## leetcode algorithm
+
+[leetcode class](./leetcode-class)
+
 ## week-01
 
 [第1周 第1、2课 | 数组、链表、栈、队列](./week-01)
