@@ -31,6 +31,8 @@
 25. [669. 修剪二叉搜索树](https://leetcode.com/problems/trim-a-binary-search-tree/): [TrimABinarySearchTree](./src/main/java/com/inbetter/homework/leetcode/TrimABinarySearchTree.java)
 26. [538. 把二叉搜索树转换为累加树](https://leetcode.com/problems/convert-bst-to-greater-tree/): [ConvertBSTToGreaterTree](./src/main/java/com/inbetter/homework/leetcode/ConvertBSTToGreaterTree.java)
 27. [897. 递增顺序搜索树](https://leetcode.com/problems/increasing-order-search-tree/): [IncreasingOrderSearchTree](./src/main/java/com/inbetter/homework/leetcode/IncreasingOrderSearchTree.java)
+28. [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/): [KthSmallestElementInABST](./src/main/java/com/inbetter/homework/leetcode/KthSmallestElementInABST.java)
+29. [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/): [RecoverBinarySearchTree](./src/main/java/com/inbetter/homework/leetcode/RecoverBinarySearchTree.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
