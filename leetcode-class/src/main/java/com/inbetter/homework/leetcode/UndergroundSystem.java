@@ -7,8 +7,14 @@ import java.util.Map;
 
 public class UndergroundSystem {
 
+    /**
+     * Uid - {StationName, Time}
+     */
     private Map<Integer, Pair<String, Integer>> checkInMap = new HashMap<>();
 
+    /**
+     * RouteName - {TotalTime, Count}
+     */
     private Map<String, Pair<Integer, Integer>> routeMap = new HashMap<>();
 
     public UndergroundSystem() {
@@ -21,6 +27,7 @@ public class UndergroundSystem {
 
     public void checkOut(int id, String stationName, int t) {
         Pair<String, Integer> previousCheckIn = checkInMap.get(id);
+        // 优化点：使用后删除它，使 HashMap 不会变大
         checkInMap.remove(id);
 
         String routeKey = getRouteKey(previousCheckIn.getKey(), stationName);
