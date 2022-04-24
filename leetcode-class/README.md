@@ -37,6 +37,9 @@
 29. [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/): [RecoverBinarySearchTree](./src/main/java/com/inbetter/homework/leetcode/RecoverBinarySearchTree.java)
 30. [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/): [BinarySearchTreeIterator](./src/main/java/com/inbetter/homework/leetcode/BSTIterator.java)
 31. [705. 设计哈希集合](https://leetcode-cn.com/problems/design-hashset/): [DesignHashSet](./src/main/java/com/inbetter/homework/leetcode/MyHashSet.java)
+32. [706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/): [DesignHashMap](./src/main/java/com/inbetter/homework/leetcode/MyHashMap.java)
+33. [535. TinyURL 的加密与解密](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/): [EncodeAndDecodeTinyURL](./src/main/java/com/inbetter/homework/leetcode/EncodeAndDecodeTinyURL.java)
+34. [1396. 设计地铁系统](https://leetcode-cn.com/problems/design-underground-system/): [DesignUndergroundSystem](./src/main/java/com/inbetter/homework/leetcode/UndergroundSystem.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
