@@ -40,6 +40,7 @@
 32. [706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/): [DesignHashMap](./src/main/java/com/inbetter/homework/leetcode/MyHashMap.java)
 33. [535. TinyURL 的加密与解密](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/): [EncodeAndDecodeTinyURL](./src/main/java/com/inbetter/homework/leetcode/EncodeAndDecodeTinyURL.java)
 34. [1396. 设计地铁系统](https://leetcode-cn.com/problems/design-underground-system/): [DesignUndergroundSystem](./src/main/java/com/inbetter/homework/leetcode/UndergroundSystem.java)
+35. [284. 顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator/): [PeekingIterator](./src/main/java/com/inbetter/homework/leetcode/PeekingIterator.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
