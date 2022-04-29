@@ -41,6 +41,10 @@
 33. [535. TinyURL 的加密与解密](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/): [EncodeAndDecodeTinyURL](./src/main/java/com/inbetter/homework/leetcode/EncodeAndDecodeTinyURL.java)
 34. [1396. 设计地铁系统](https://leetcode-cn.com/problems/design-underground-system/): [DesignUndergroundSystem](./src/main/java/com/inbetter/homework/leetcode/UndergroundSystem.java)
 35. [284. 顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator/): [PeekingIterator](./src/main/java/com/inbetter/homework/leetcode/PeekingIterator.java)
+36. [1584. 连接所有点的最小费用](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/): [MinCostToConnectAllPoints](./src/main/java/com/inbetter/homework/leetcode/MinCostToConnectAllPoints.java)
+37. [1202. 交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps/): [SmallestStringWithSwaps](./src/main/java/com/inbetter/homework/leetcode/SmallestStringWithSwaps.java)
+38. [1631. 最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/): [PathWithMinimumEffort](./src/main/java/com/inbetter/homework/leetcode/PathWithMinimumEffort.java)
+39. [785. 判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/): [IsGraphBipartite](./src/main/java/com/inbetter/homework/leetcode/IsGraphBipartite.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
