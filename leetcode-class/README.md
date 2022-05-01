@@ -46,6 +46,7 @@
 38. [1631. 最小体力消耗路径](https://leetcode.com/problems/path-with-minimum-effort/): [PathWithMinimumEffort](./src/main/java/com/inbetter/homework/leetcode/PathWithMinimumEffort.java)
 39. [785. 判断二分图](https://leetcode.com/problems/is-graph-bipartite/): [IsGraphBipartite](./src/main/java/com/inbetter/homework/leetcode/IsGraphBipartite.java)
 40. [399. 除法求值](https://leetcode.com/problems/evaluate-division/): [EvaluateDivision](./src/main/java/com/inbetter/homework/leetcode/EvaluateDivision.java)
+41. [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/): [BackspaceStringCompare](./src/main/java/com/inbetter/homework/leetcode/BackspaceStringCompare.java) , [BackspaceStringCompare](./src/main/java/com/inbetter/homework/leetcode/BackspaceStringCompare2.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
