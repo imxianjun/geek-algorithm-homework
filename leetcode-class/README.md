@@ -49,6 +49,7 @@
 41. [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/): [BackspaceStringCompare](./src/main/java/com/inbetter/homework/leetcode/BackspaceStringCompare.java) , [BackspaceStringCompare](./src/main/java/com/inbetter/homework/leetcode/BackspaceStringCompare2.java)
 42. [905. 按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/): [SortArrayByParity](./src/main/java/com/inbetter/homework/leetcode/SortArrayByParity.java) , [SortArrayByParity](./src/main/java/com/inbetter/homework/leetcode/SortArrayByParity2.java)
 43. [581. 最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/): [ShortestUnsortedContinuousSubarray](./src/main/java/com/inbetter/homework/leetcode/ShortestUnsortedContinuousSubarray.java)
+44. [1679. K 和数对的最大数目](https://leetcode-cn.com/problems/max-number-of-k-sum-pairs/): [MaxNumberOfKSumPairs](./src/main/java/com/inbetter/homework/leetcode/MaxNumberOfKSumPairs.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
