@@ -50,6 +50,7 @@
 42. [905. 按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/): [SortArrayByParity](./src/main/java/com/inbetter/homework/leetcode/SortArrayByParity.java) , [SortArrayByParity](./src/main/java/com/inbetter/homework/leetcode/SortArrayByParity2.java)
 43. [581. 最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/): [ShortestUnsortedContinuousSubarray](./src/main/java/com/inbetter/homework/leetcode/ShortestUnsortedContinuousSubarray.java)
 44. [1679. K 和数对的最大数目](https://leetcode-cn.com/problems/max-number-of-k-sum-pairs/): [MaxNumberOfKSumPairs](./src/main/java/com/inbetter/homework/leetcode/MaxNumberOfKSumPairs.java)
+45. [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/): [ImplementStackUsingQueues](./src/main/java/com/inbetter/homework/leetcode/MyStack.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
