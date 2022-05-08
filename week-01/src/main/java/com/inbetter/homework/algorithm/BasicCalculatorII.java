@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-public class BasicCalculator {
+public class BasicCalculatorII {
 
     private Stack<Character> ops = new Stack<>();
 
@@ -14,12 +14,10 @@ public class BasicCalculator {
         s += " ";
         String number = "";
         List<String> tokens = new ArrayList<>();
-        boolean needZero = true;
         char[] chars = s.toCharArray();
         for (char character : chars) {
             if (character >= '0' && character <= '9') {
                 number += character;
-                needZero = false;
                 continue;
             } else {
                 if (number != "") {
@@ -30,28 +28,11 @@ public class BasicCalculator {
             if (character == ' ') {
                 continue;
             }
-            if (character == '(') {
-                ops.push(character);
-                needZero = true;
-                continue;
-            }
-            if (character == ')') {
-                while (ops.peek() != '(') {
-                    tokens.add(String.valueOf(ops.pop()));
-                }
-                ops.pop();
-                needZero = false;
-                continue;
-            }
-            if ((character == '+' || character == '-') && needZero) {
-                tokens.add("0");
-            }
             int rank = getRank(character);
             while (!ops.isEmpty() && getRank(ops.peek()) >= rank) {
                 tokens.add(String.valueOf(ops.pop()));
             }
             ops.push(character);
-            needZero = true;
         }
         while (!ops.isEmpty()) {
             tokens.add(String.valueOf(ops.pop()));
@@ -97,6 +78,12 @@ public class BasicCalculator {
             return 1;
         }
         return 0;
+    }
+
+    public static void main(String[] args) {
+        String s = "2048";
+        int calculate = new BasicCalculatorII().calculate(s);
+        System.out.println(calculate);
     }
 
 }
