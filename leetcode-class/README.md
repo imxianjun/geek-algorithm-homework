@@ -56,6 +56,7 @@
 48. [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/): [FlattenNestedListIterator](./src/main/java/com/inbetter/homework/leetcode/NestedIterator.java)
 49. [17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/): [LetterCombinationsOfAPhoneNumber](./src/main/java/com/inbetter/homework/leetcode/LetterCombinationsOfAPhoneNumber.java)
 50. [216. 组合总和 III](https://leetcode.cn/problems/combination-sum-iii/): [CombinationSumIII](./src/main/java/com/inbetter/homework/leetcode/CombinationSumIII.java)
+51. [1641. 统计字典序元音字符串的数目](https://leetcode.cn/problems/count-sorted-vowel-strings/): [CountSortedVowelStrings](./src/main/java/com/inbetter/homework/leetcode/CountSortedVowelStrings.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
