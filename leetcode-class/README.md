@@ -57,6 +57,7 @@
 49. [17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/): [LetterCombinationsOfAPhoneNumber](./src/main/java/com/inbetter/homework/leetcode/LetterCombinationsOfAPhoneNumber.java)
 50. [216. 组合总和 III](https://leetcode.cn/problems/combination-sum-iii/): [CombinationSumIII](./src/main/java/com/inbetter/homework/leetcode/CombinationSumIII.java)
 51. [1641. 统计字典序元音字符串的数目](https://leetcode.cn/problems/count-sorted-vowel-strings/): [CountSortedVowelStrings](./src/main/java/com/inbetter/homework/leetcode/CountSortedVowelStrings.java)
+52. [47. 全排列 II](https://leetcode.cn/problems/permutations-ii/): [PermutationsII](./src/main/java/com/inbetter/homework/leetcode/PermutationsII.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
