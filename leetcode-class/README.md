@@ -59,6 +59,8 @@
 51. [1641. 统计字典序元音字符串的数目](https://leetcode.cn/problems/count-sorted-vowel-strings/): [CountSortedVowelStrings](./src/main/java/com/inbetter/homework/leetcode/CountSortedVowelStrings.java)
 52. [47. 全排列 II](https://leetcode.cn/problems/permutations-ii/): [PermutationsII](./src/main/java/com/inbetter/homework/leetcode/PermutationsII.java)
 53. [117. 填充每个节点的下一个右侧节点指针 II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/): [PopulatingNextRightPointersInEachNodeII](./src/main/java/com/inbetter/homework/leetcode/PopulatingNextRightPointersInEachNodeII.java)
+54. [743. 网络延迟时间](https://leetcode.cn/problems/network-delay-time/): [NetworkDelayTime](./src/main/java/com/inbetter/homework/leetcode/NetworkDelayTime.java)
+55. [201. 数字范围按位与](https://leetcode.cn/problems/bitwise-and-of-numbers-range/): [BitwiseAndOfNumbersRange](./src/main/java/com/inbetter/homework/leetcode/BitwiseAndOfNumbersRange.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
