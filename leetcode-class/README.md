@@ -61,6 +61,7 @@
 53. [117. 填充每个节点的下一个右侧节点指针 II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/): [PopulatingNextRightPointersInEachNodeII](./src/main/java/com/inbetter/homework/leetcode/PopulatingNextRightPointersInEachNodeII.java)
 54. [743. 网络延迟时间](https://leetcode.cn/problems/network-delay-time/): [NetworkDelayTime](./src/main/java/com/inbetter/homework/leetcode/NetworkDelayTime.java)
 55. [201. 数字范围按位与](https://leetcode.cn/problems/bitwise-and-of-numbers-range/): [BitwiseAndOfNumbersRange](./src/main/java/com/inbetter/homework/leetcode/BitwiseAndOfNumbersRange.java)
+56. [1091. 二进制矩阵中的最短路径](https://leetcode.cn/problems/shortest-path-in-binary-matrix/): [ShortestPathInBinaryMatrix](./src/main/java/com/inbetter/homework/leetcode/ShortestPathInBinaryMatrix.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
