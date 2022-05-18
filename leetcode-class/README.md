@@ -62,6 +62,8 @@
 54. [743. 网络延迟时间](https://leetcode.cn/problems/network-delay-time/): [NetworkDelayTime](./src/main/java/com/inbetter/homework/leetcode/NetworkDelayTime.java)
 55. [201. 数字范围按位与](https://leetcode.cn/problems/bitwise-and-of-numbers-range/): [BitwiseAndOfNumbersRange](./src/main/java/com/inbetter/homework/leetcode/BitwiseAndOfNumbersRange.java)
 56. [1091. 二进制矩阵中的最短路径](https://leetcode.cn/problems/shortest-path-in-binary-matrix/): [ShortestPathInBinaryMatrix](./src/main/java/com/inbetter/homework/leetcode/ShortestPathInBinaryMatrix.java)
+57. [1379. 找出克隆二叉树中的相同节点](https://leetcode.cn/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/): [FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree](./src/main/java/com/inbetter/homework/leetcode/FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.java)
+58. [1192. 查找集群内的「关键连接」](https://leetcode.cn/problems/critical-connections-in-a-network/): [CriticalConnectionsInANetwork](./src/main/java/com/inbetter/homework/leetcode/CriticalConnectionsInANetwork.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
