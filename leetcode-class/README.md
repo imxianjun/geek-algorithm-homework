@@ -64,6 +64,8 @@
 56. [1091. 二进制矩阵中的最短路径](https://leetcode.cn/problems/shortest-path-in-binary-matrix/): [ShortestPathInBinaryMatrix](./src/main/java/com/inbetter/homework/leetcode/ShortestPathInBinaryMatrix.java)
 57. [1379. 找出克隆二叉树中的相同节点](https://leetcode.cn/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/): [FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree](./src/main/java/com/inbetter/homework/leetcode/FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.java)
 58. [1192. 查找集群内的「关键连接」](https://leetcode.cn/problems/critical-connections-in-a-network/): [CriticalConnectionsInANetwork](./src/main/java/com/inbetter/homework/leetcode/CriticalConnectionsInANetwork.java)
+59. [329. 矩阵中的最长递增路径](https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/): [TODO](./src/main/java/com/inbetter/homework/leetcode/LongestIncreasingPathInAMatrix.java)
+60. [63. 不同路径 II](https://leetcode.cn/problems/unique-paths-ii/): [UniquePathsII](./src/main/java/com/inbetter/homework/leetcode/UniquePathsII.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
