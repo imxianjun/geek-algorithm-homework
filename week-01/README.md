@@ -33,7 +33,7 @@
 10. [最小栈](https://leetcode.com/problems/min-stack/) : [MinStack](./src/main/java/com/inbetter/homework/algorithm/MinStack.java)
 11. [逆波兰表达式求值](https://leetcode.com/problems/evaluate-reverse-polish-notation/) : [EvaluateReversePolishNotation](./src/main/java/com/inbetter/homework/algorithm/EvaluateReversePolishNotation.java)
 12. [基本计算器 (选做)](https://leetcode.com/problems/basic-calculator/) : [BasicCalculator](./src/main/java/com/inbetter/homework/algorithm/BasicCalculator.java)
-13. [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) : [BasicCalculatorII](./src/main/java/com/inbetter/homework/algorithm/BasicCalculatorII.java)
+13. [227. 基本计算器 II](https://leetcode.com/problems/basic-calculator-ii/) : [BasicCalculatorII](./src/main/java/com/inbetter/homework/algorithm/BasicCalculatorII.java)
 
 **单调栈、单调队列**
 
