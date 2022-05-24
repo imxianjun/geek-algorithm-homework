@@ -68,5 +68,8 @@
 60. [63. 不同路径 II](https://leetcode.com/problems/unique-paths-ii/): [UniquePathsII](./src/main/java/com/inbetter/homework/leetcode/UniquePathsII.java)
 61. [322. 零钱兑换](https://leetcode.com/problems/coin-change/): [CoinChange](./src/main/java/com/inbetter/homework/leetcode/CoinChange.java)
 62. [647. 回文子串](https://leetcode.cn/problems/palindromic-substrings/): [PalindromicSubstrings](./src/main/java/com/inbetter/homework/leetcode/PalindromicSubstrings.java)
+63. [474. 一和零](https://leetcode.cn/problems/ones-and-zeroes/): [OnesAndZeroes](./src/main/java/com/inbetter/homework/leetcode/OnesAndZeroes.java)
+64. [32. 最长有效括号](https://leetcode.cn/problems/longest-valid-parentheses/): [LongestValidParentheses](./src/main/java/com/inbetter/homework/leetcode/LongestValidParentheses.java)
+
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
