@@ -72,6 +72,8 @@
 64. [32. 最长有效括号](https://leetcode.cn/problems/longest-valid-parentheses/): [LongestValidParentheses](./src/main/java/com/inbetter/homework/leetcode/LongestValidParentheses.java)
 65. [354. 俄罗斯套娃信封问题](https://leetcode.cn/problems/russian-doll-envelopes/): [RussianDollEnvelopes](./src/main/java/com/inbetter/homework/leetcode/RussianDollEnvelopes.java)
 66. [191. 位1的个数](https://leetcode.cn/problems/number-of-1-bits/): [NumberOf1Bits](./src/main/java/com/inbetter/homework/leetcode/NumberOf1Bits.java)
+67. [1342. 将数字变成 0 的操作次数](https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-to-zero/): [NumberOfStepsToReduceANumberToZero](./src/main/java/com/inbetter/homework/leetcode/NumberOfStepsToReduceANumberToZero.java) , [NumberOfStepsToReduceANumberToZero](./src/main/java/com/inbetter/homework/leetcode/NumberOfStepsToReduceANumberToZero2.java)
+68. [268. 丢失的数字](https://leetcode.cn/problems/missing-number/): [MissingNumber](./src/main/java/com/inbetter/homework/leetcode/MissingNumber.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
