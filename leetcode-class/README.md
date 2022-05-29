@@ -74,6 +74,7 @@
 66. [191. 位1的个数](https://leetcode.cn/problems/number-of-1-bits/): [NumberOf1Bits](./src/main/java/com/inbetter/homework/leetcode/NumberOf1Bits.java)
 67. [1342. 将数字变成 0 的操作次数](https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-to-zero/): [NumberOfStepsToReduceANumberToZero](./src/main/java/com/inbetter/homework/leetcode/NumberOfStepsToReduceANumberToZero.java) , [NumberOfStepsToReduceANumberToZero](./src/main/java/com/inbetter/homework/leetcode/NumberOfStepsToReduceANumberToZero2.java)
 68. [268. 丢失的数字](https://leetcode.cn/problems/missing-number/): [MissingNumber](./src/main/java/com/inbetter/homework/leetcode/MissingNumber.java)
+69. [318. 最大单词长度乘积](https://leetcode.cn/problems/maximum-product-of-word-lengths/): [MaximumProductOfWordLengths](./src/main/java/com/inbetter/homework/leetcode/MaximumProductOfWordLengths.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
