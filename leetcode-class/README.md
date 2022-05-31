@@ -75,6 +75,8 @@
 67. [1342. 将数字变成 0 的操作次数](https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-to-zero/): [NumberOfStepsToReduceANumberToZero](./src/main/java/com/inbetter/homework/leetcode/NumberOfStepsToReduceANumberToZero.java) , [NumberOfStepsToReduceANumberToZero](./src/main/java/com/inbetter/homework/leetcode/NumberOfStepsToReduceANumberToZero2.java)
 68. [268. 丢失的数字](https://leetcode.cn/problems/missing-number/): [MissingNumber](./src/main/java/com/inbetter/homework/leetcode/MissingNumber.java)
 69. [318. 最大单词长度乘积](https://leetcode.cn/problems/maximum-product-of-word-lengths/): [MaximumProductOfWordLengths](./src/main/java/com/inbetter/homework/leetcode/MaximumProductOfWordLengths.java)
+70. [29. 两数相除](https://leetcode.cn/problems/divide-two-integers/): [DivideTwoIntegers](./src/main/java/com/inbetter/homework/leetcode/DivideTwoIntegers.java)
+71. [1461. 检查一个字符串是否包含所有长度为 K 的二进制子串](https://leetcode.cn/problems/check-if-a-string-contains-all-binary-codes-of-size-k/): [CheckIfAStringContainsAllBinaryCodesOfSizeK](./src/main/java/com/inbetter/homework/leetcode/CheckIfAStringContainsAllBinaryCodesOfSizeK.java) , [CheckIfAStringContainsAllBinaryCodesOfSizeK](./src/main/java/com/inbetter/homework/leetcode/CheckIfAStringContainsAllBinaryCodesOfSizeK2.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
