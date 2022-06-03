@@ -79,6 +79,7 @@
 71. [1461. 检查一个字符串是否包含所有长度为 K 的二进制子串](https://leetcode.cn/problems/check-if-a-string-contains-all-binary-codes-of-size-k/): [CheckIfAStringContainsAllBinaryCodesOfSizeK](./src/main/java/com/inbetter/homework/leetcode/CheckIfAStringContainsAllBinaryCodesOfSizeK.java) , [CheckIfAStringContainsAllBinaryCodesOfSizeK](./src/main/java/com/inbetter/homework/leetcode/CheckIfAStringContainsAllBinaryCodesOfSizeK2.java)
 72. [1480. 一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/): [RunningSumOf1dArray](./src/main/java/com/inbetter/homework/leetcode/RunningSumOf1dArray.java) , [RunningSumOf1dArray](./src/main/java/com/inbetter/homework/leetcode/RunningSumOf1dArray2.java)
 73. [867. 转置矩阵](https://leetcode.cn/problems/transpose-matrix/): [TransposeMatrix](./src/main/java/com/inbetter/homework/leetcode/TransposeMatrix.java) , [TransposeMatrix](./src/main/java/com/inbetter/homework/leetcode/TransposeMatrix2.java)
+74. [304. 二维区域和检索 - 矩阵不可变](https://leetcode.cn/problems/range-sum-query-2d-immutable/): [RangeSumQuery2DImmutable](./src/main/java/com/inbetter/homework/leetcode/NumMatrix.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
