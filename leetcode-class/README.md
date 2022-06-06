@@ -81,6 +81,7 @@
 73. [867. 转置矩阵](https://leetcode.cn/problems/transpose-matrix/): [TransposeMatrix](./src/main/java/com/inbetter/homework/leetcode/TransposeMatrix.java) , [TransposeMatrix](./src/main/java/com/inbetter/homework/leetcode/TransposeMatrix2.java)
 74. [304. 二维区域和检索 - 矩阵不可变](https://leetcode.cn/problems/range-sum-query-2d-immutable/): [RangeSumQuery2DImmutable](./src/main/java/com/inbetter/homework/leetcode/NumMatrix.java)
 75. [51. N 皇后](https://leetcode.cn/problems/n-queens/): [NQueens](./src/main/java/com/inbetter/homework/leetcode/NQueens.java)
-
+76. [52. N皇后 II](https://leetcode.cn/problems/n-queens-ii/): [NQueensII](./src/main/java/com/inbetter/homework/leetcode/NQueensII.java)
+77. [160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/): [IntersectionOfTwoLinkedLists](./src/main/java/com/inbetter/homework/leetcode/IntersectionOfTwoLinkedLists.java)
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
