@@ -1,14 +1,8 @@
 package com.inbetter.homework.leetcode;
 
-import java.util.HashSet;
-import java.util.Set;
-
 public class NQueensII2 {
 
     private int count = 0;
-    private Set<Integer> cols = new HashSet<>();
-    private Set<Integer> positiveDiagonals = new HashSet<>();
-    private Set<Integer> negativeDiagonals = new HashSet<>();
 
     public int totalNQueens(int n) {
         boolean[] cols = new boolean[n];
