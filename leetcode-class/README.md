@@ -84,6 +84,7 @@
 76. [52. N皇后 II](https://leetcode.com/problems/n-queens-ii/): [NQueensII](./src/main/java/com/inbetter/homework/leetcode/NQueensII.java) , [NQueensII](./src/main/java/com/inbetter/homework/leetcode/NQueensII2.java) , [NQueensII](./src/main/java/com/inbetter/homework/leetcode/NQueensII3.java)
 77. [160. 相交链表](https://leetcode.com/problems/intersection-of-two-linked-lists/): [IntersectionOfTwoLinkedLists](./src/main/java/com/inbetter/homework/leetcode/IntersectionOfTwoLinkedLists.java)
 78. [88. 合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/): [MergeSortedArray](./src/main/java/com/inbetter/homework/leetcode/MergeSortedArray.java)
+79. [1332. 删除回文子序列](https://leetcode.cn/problems/remove-palindromic-subsequences/): [RemovePalindromicSubsequences](./src/main/java/com/inbetter/homework/leetcode/RemovePalindromicSubsequences.java) , [RemovePalindromicSubsequences](./src/main/java/com/inbetter/homework/leetcode/RemovePalindromicSubsequences2.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
