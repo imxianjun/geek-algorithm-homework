@@ -87,6 +87,7 @@
 79. [1332. 删除回文子序列](https://leetcode.cn/problems/remove-palindromic-subsequences/): [RemovePalindromicSubsequences](./src/main/java/com/inbetter/homework/leetcode/RemovePalindromicSubsequences.java) , [RemovePalindromicSubsequences](./src/main/java/com/inbetter/homework/leetcode/RemovePalindromicSubsequences2.java)
 80. [167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/): [TwoSumII](./src/main/java/com/inbetter/homework/leetcode/TwoSumII.java) , [TwoSumII](./src/main/java/com/inbetter/homework/leetcode/TwoSumII2.java)
 81. [653. 两数之和 IV - 输入 BST](https://leetcode.cn/problems/two-sum-iv-input-is-a-bst/): [TwoSumIV](./src/main/java/com/inbetter/homework/leetcode/TwoSumIV.java) , [TwoSumIV](./src/main/java/com/inbetter/homework/leetcode/TwoSumIV2.java) , [TwoSumIV](./src/main/java/com/inbetter/homework/leetcode/TwoSumIV3.java)
+82. [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/): [LongestSubstringWithoutRepeatingCharacters](./src/main/java/com/inbetter/homework/leetcode/LongestSubstringWithoutRepeatingCharacters.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
