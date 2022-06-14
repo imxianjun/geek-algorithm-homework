@@ -90,6 +90,8 @@
 82. [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/): [LongestSubstringWithoutRepeatingCharacters](./src/main/java/com/inbetter/homework/leetcode/LongestSubstringWithoutRepeatingCharacters.java)
 83. [1658. 将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/): [MinimumOperationsToReduceXToZero](./src/main/java/com/inbetter/homework/leetcode/MinimumOperationsToReduceXToZero.java)
 84. [1695. 删除子数组的最大得分](https://leetcode.cn/problems/maximum-erasure-value/): [MaximumErasureValue](./src/main/java/com/inbetter/homework/leetcode/MaximumErasureValue.java)
+85. [120. 三角形最小路径和](https://leetcode.cn/problems/triangle/): [Triangle](./src/main/java/com/inbetter/homework/leetcode/Triangle.java)
+86. [583. 两个字符串的删除操作](https://leetcode.cn/problems/delete-operation-for-two-strings/): [DeleteOperationForTwoStrings](./src/main/java/com/inbetter/homework/leetcode/DeleteOperationForTwoStrings.java) , [DeleteOperationForTwoStrings](./src/main/java/com/inbetter/homework/leetcode/DeleteOperationForTwoStrings2.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
