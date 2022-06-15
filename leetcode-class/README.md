@@ -92,6 +92,7 @@
 84. [1695. 删除子数组的最大得分](https://leetcode.cn/problems/maximum-erasure-value/): [MaximumErasureValue](./src/main/java/com/inbetter/homework/leetcode/MaximumErasureValue.java)
 85. [120. 三角形最小路径和](https://leetcode.cn/problems/triangle/): [Triangle](./src/main/java/com/inbetter/homework/leetcode/Triangle.java)
 86. [583. 两个字符串的删除操作](https://leetcode.cn/problems/delete-operation-for-two-strings/): [DeleteOperationForTwoStrings](./src/main/java/com/inbetter/homework/leetcode/DeleteOperationForTwoStrings.java) , [DeleteOperationForTwoStrings](./src/main/java/com/inbetter/homework/leetcode/DeleteOperationForTwoStrings2.java)
+87. [1048. 最长字符串链](https://leetcode.cn/problems/longest-string-chain/): [LongestStringChain](./src/main/java/com/inbetter/homework/leetcode/LongestStringChain.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
