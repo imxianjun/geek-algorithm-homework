@@ -93,6 +93,12 @@
 85. [120. 三角形最小路径和](https://leetcode.cn/problems/triangle/): [Triangle](./src/main/java/com/inbetter/homework/leetcode/Triangle.java)
 86. [583. 两个字符串的删除操作](https://leetcode.cn/problems/delete-operation-for-two-strings/): [DeleteOperationForTwoStrings](./src/main/java/com/inbetter/homework/leetcode/DeleteOperationForTwoStrings.java) , [DeleteOperationForTwoStrings](./src/main/java/com/inbetter/homework/leetcode/DeleteOperationForTwoStrings2.java)
 87. [1048. 最长字符串链](https://leetcode.cn/problems/longest-string-chain/): [LongestStringChain](./src/main/java/com/inbetter/homework/leetcode/LongestStringChain.java)
+88. [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/): [LongestPalindromicSubstring](./src/main/java/com/inbetter/homework/leetcode/LongestPalindromicSubstring.java)
+89. [968. 监控二叉树](https://leetcode.cn/problems/binary-tree-cameras/): [BinaryTreeCameras](./src/main/java/com/inbetter/homework/leetcode/BinaryTreeCameras.java) , [BinaryTreeCameras](./src/main/java/com/inbetter/homework/leetcode/BinaryTreeCameras2.java)
+90. [745. 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/): [PrefixAndSuffixSearch](./src/main/java/com/inbetter/homework/leetcode/WordFilter.java)
+91. [1268. 搜索推荐系统](https://leetcode.cn/problems/search-suggestions-system/): [SearchSuggestionsSystem](./src/main/java/com/inbetter/homework/leetcode/SearchSuggestionsSystem.java)
+92. [820. 单词的压缩编码](https://leetcode.cn/problems/short-encoding-of-words/): [ShortEncodingOfWords](./src/main/java/com/inbetter/homework/leetcode/ShortEncodingOfWords.java)
+93. [1642. 可以到达的最远建筑](https://leetcode.cn/problems/furthest-building-you-can-reach/): [FurthestBuildingYouCanReach](./src/main/java/com/inbetter/homework/leetcode/FurthestBuildingYouCanReach.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
