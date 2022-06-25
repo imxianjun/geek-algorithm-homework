@@ -101,6 +101,8 @@
 93. [1642. 可以到达的最远建筑](https://leetcode.cn/problems/furthest-building-you-can-reach/): [FurthestBuildingYouCanReach](./src/main/java/com/inbetter/homework/leetcode/FurthestBuildingYouCanReach.java)
 94. [215. 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/): [KthLargestElementInAArray](./src/main/java/com/inbetter/homework/leetcode/KthLargestElementInAArray.java)
 95. [630. 课程表 III](https://leetcode.cn/problems/course-schedule-iii/): [CourseScheduleIII](./src/main/java/com/inbetter/homework/leetcode/CourseScheduleIII.java)
+96. [1354. 多次求和构造目标数组](https://leetcode.cn/problems/construct-target-array-with-multiple-sums/): [ConstructTargetArrayWithMultipleSums](./src/main/java/com/inbetter/homework/leetcode/ConstructTargetArrayWithMultipleSums.java)
+97. [665. 非递减数列](https://leetcode.cn/problems/non-decreasing-array/): [Non-decreasingArray](./src/main/java/com/inbetter/homework/leetcode/NonDecreasingArray.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
