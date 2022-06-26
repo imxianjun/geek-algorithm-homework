@@ -103,6 +103,7 @@
 95. [630. 课程表 III](https://leetcode.cn/problems/course-schedule-iii/): [CourseScheduleIII](./src/main/java/com/inbetter/homework/leetcode/CourseScheduleIII.java)
 96. [1354. 多次求和构造目标数组](https://leetcode.cn/problems/construct-target-array-with-multiple-sums/): [ConstructTargetArrayWithMultipleSums](./src/main/java/com/inbetter/homework/leetcode/ConstructTargetArrayWithMultipleSums.java)
 97. [665. 非递减数列](https://leetcode.cn/problems/non-decreasing-array/): [Non-decreasingArray](./src/main/java/com/inbetter/homework/leetcode/NonDecreasingArray.java)
+98. [1423. 可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/): [MaximumPointsYouCanObtainFromCards](./src/main/java/com/inbetter/homework/leetcode/MaximumPointsYouCanObtainFromCards.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
