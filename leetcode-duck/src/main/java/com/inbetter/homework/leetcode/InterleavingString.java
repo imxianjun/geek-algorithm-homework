@@ -1,0 +1,26 @@
+package com.inbetter.homework.leetcode;
+
+public class InterleavingString {
+
+    public boolean isInterleave(String s1, String s2, String s3) {
+        if (s3.length() != s1.length() + s2.length()) {
+            return false;
+        }
+        boolean[][] isInterleave = new boolean[s1.length() + 1][s2.length() + 1];
+        for (int i = 0; i < s1.length() + 1; i++) {
+            for (int j = 0; j < s2.length() + 1; j++) {
+                if (i == 0 && j == 0) {
+                    isInterleave[i][j] = true;
+                } else if (i == 0) {
+                    isInterleave[i][j] = isInterleave[i][j - 1] && s2.charAt(j - 1) == s3.charAt(i + j - 1);
+                } else if (j == 0) {
+                    isInterleave[i][j] = isInterleave[i - 1][j] && s1.charAt(i - 1) == s3.charAt(i + j - 1);
+                } else {
+                    isInterleave[i][j] = (isInterleave[i][j - 1] && s2.charAt(j - 1) == s3.charAt(i + j - 1)) || (isInterleave[i - 1][j] && s1.charAt(i - 1) == s3.charAt(i + j - 1));
+                }
+            }
+        }
+        return isInterleave[s1.length()][s2.length()];
+    }
+
+}
