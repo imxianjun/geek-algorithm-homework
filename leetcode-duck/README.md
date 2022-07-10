@@ -13,6 +13,10 @@
 7. [128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/): [LongestConsecutiveSequence](./src/main/java/com/inbetter/homework/leetcode/LongestConsecutiveSequence.java)
 8. [509. 斐波那契数](https://leetcode.cn/problems/fibonacci-number/): [FibonacciNumber](./src/main/java/com/inbetter/homework/leetcode/FibonacciNumber.java) , [FibonacciNumber](./src/main/java/com/inbetter/homework/leetcode/FibonacciNumber2.java)
 9. [97. 交错字符串](https://leetcode.cn/problems/interleaving-string/): [InterleavingString](./src/main/java/com/inbetter/homework/leetcode/InterleavingString.java)
+10. [1473. 粉刷房子 III](https://leetcode.cn/problems/paint-house-iii/): [PaintHouseIII](./src/main/java/com/inbetter/homework/leetcode/PaintHouseIII.java)
+11. [1696. 跳跃游戏 VI](https://leetcode.cn/problems/jump-game-vi/): [JumpGameVI](./src/main/java/com/inbetter/homework/leetcode/JumpGameVI.java)
+12. [746. 使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/): [MinCostClimbingStairs](./src/main/java/com/inbetter/homework/leetcode/MinCostClimbingStairs.java) , [MinCostClimbingStairs](./src/main/java/com/inbetter/homework/leetcode/MinCostClimbingStairs2.java) , [MinCostClimbingStairs](./src/main/java/com/inbetter/homework/leetcode/MinCostClimbingStairs3.java) , [MinCostClimbingStairs](./src/main/java/com/inbetter/homework/leetcode/MinCostClimbingStairs4.java)
+
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
