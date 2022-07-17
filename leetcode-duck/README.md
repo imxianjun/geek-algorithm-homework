@@ -19,5 +19,10 @@
 13. [199. 二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/): [BinaryTreeRightSideView](./src/main/java/com/inbetter/homework/leetcode/BinaryTreeRightSideView.java)
 14. [473. 火柴拼正方形](https://leetcode.cn/problems/matchsticks-to-square/): [MatchsticksToSquare](./src/main/java/com/inbetter/homework/leetcode/MatchsticksToSquare.java) , [MatchsticksToSquare](./src/main/java/com/inbetter/homework/leetcode/MatchsticksToSquare2.java)
 15. [102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/): [BinaryTreeLevelOrderTraversal](./src/main/java/com/inbetter/homework/leetcode/BinaryTreeLevelOrderTraversal.java) , [BinaryTreeLevelOrderTraversal](./src/main/java/com/inbetter/homework/leetcode/BinaryTreeLevelOrderTraversal2.java)
+16. [695. 岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island/): [MaxAreaOfIsland](./src/main/java/com/inbetter/homework/leetcode/MaxAreaOfIsland.java)
+17. [105. 从前序与中序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/): [ConstructBinaryTreeFromPreorderAndInorderTraversal](./src/main/java/com/inbetter/homework/leetcode/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)
+18. [576. 出界的路径数](https://leetcode.cn/problems/out-of-boundary-paths/): [OutOfBoundaryPaths](./src/main/java/com/inbetter/homework/leetcode/OutOfBoundaryPaths.java)
+19. [629. K个逆序对数组](https://leetcode.cn/problems/k-inverse-pairs-array/): [KInversePairsArray](./src/main/java/com/inbetter/homework/leetcode/KInversePairsArray.java)
+
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
