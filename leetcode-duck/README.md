@@ -23,6 +23,9 @@
 17. [105. 从前序与中序遍历序列构造二叉树](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/): [ConstructBinaryTreeFromPreorderAndInorderTraversal](./src/main/java/com/inbetter/homework/leetcode/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)
 18. [576. 出界的路径数](https://leetcode.com/problems/out-of-boundary-paths/): [OutOfBoundaryPaths](./src/main/java/com/inbetter/homework/leetcode/OutOfBoundaryPaths.java)
 19. [629. K个逆序对数组](https://leetcode.com/problems/k-inverse-pairs-array/): [KInversePairsArray](./src/main/java/com/inbetter/homework/leetcode/KInversePairsArray.java)
+20. [704. 二分查找](https://leetcode.cn/problems/binary-search/): [BinarySearch](./src/main/java/com/inbetter/homework/leetcode/BinarySearch.java)
+21. [1074. 元素和为目标值的子矩阵数量](https://leetcode.cn/problems/number-of-submatrices-that-sum-to-target/): [NumberOfSubmatricesThatSumToTarget](./src/main/java/com/inbetter/homework/leetcode/NumberOfSubmatricesThatSumToTarget.java)
+22. [118. 杨辉三角](https://leetcode.cn/problems/pascals-triangle/): [PascalsTriangle](./src/main/java/com/inbetter/homework/leetcode/PascalsTriangle.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
