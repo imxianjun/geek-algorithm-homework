@@ -26,6 +26,9 @@
 20. [704. 二分查找](https://leetcode.cn/problems/binary-search/): [BinarySearch](./src/main/java/com/inbetter/homework/leetcode/BinarySearch.java)
 21. [1074. 元素和为目标值的子矩阵数量](https://leetcode.cn/problems/number-of-submatrices-that-sum-to-target/): [NumberOfSubmatricesThatSumToTarget](./src/main/java/com/inbetter/homework/leetcode/NumberOfSubmatricesThatSumToTarget.java)
 22. [118. 杨辉三角](https://leetcode.cn/problems/pascals-triangle/): [PascalsTriangle](./src/main/java/com/inbetter/homework/leetcode/PascalsTriangle.java)
+23. [792. 匹配子序列的单词数](https://leetcode.cn/problems/number-of-matching-subsequences/): [NumberOfMatchingSubsequences](./src/main/java/com/inbetter/homework/leetcode/NumberOfMatchingSubsequences.java)
+24. [92. 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/): [ReverseLinkedListII](./src/main/java/com/inbetter/homework/leetcode/ReverseLinkedListII.java)
+25. [86. 分隔链表](https://leetcode.cn/problems/partition-list/): [PartitionList](./src/main/java/com/inbetter/homework/leetcode/PartitionList.java)
 
 
 : [TODO](./src/main/java/com/inbetter/homework/leetcode/TODO.java)
